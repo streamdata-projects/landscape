@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<section
+   class="imageMasthead imageMasthead--content-left"
+   style="background: url('https://i2.wp.com/streamdata.io/wp-content/uploads/2017/12/masthead-bg.jpg?fit=1440%2C782&ssl=1') no-repeat center center; background-size: cover" >
+   <div class="imageMasthead__content-side">
+      <div class="imageMasthead__content-container">
+         <div class="imageMasthead__content-wrap">
+            <h3 class="imageMasthead__eyebrow enterAnimation" data-enter-animation><a href="https://github.com/streamdata-projects/landscape/blob/master/_config.yml" target="_blank" style="color: #000;">{{ site.title }}</a></h3>
+            <h1 class="imageMasthead__heading enterAnimation" data-enter-animation>{{ site.title }}</h1>
+            <div class="imageMasthead__body enterAnimation" data-enter-animation>
+               <p>{{ site.philosophy }}</p>
+            </div>
+         </div>
+      </div>
+   </div>
+   <div class="imageMasthead__image-side enterAnimation" data-enter-animation>
+      <div class="imageMasthead__image-wrap">
+         <img src="http://landscape.streamdata.io/images/landscape.jpg" alt="two people fist-pumping at desk" class="imageMasthead__image">
+      </div>
+   </div>
+</section>
+
+<!--list landscapes--->
+<div class="partnersPanel">
+   <div class="partnersPanel__container">
+
+      {% assign landscapes = site.landscape %}
+      {% assign number_of_landscapes = landscapes | size %}
+      {% for landscape in landscapes %}
+      <div class="partnersPanel__item enterAnimation" data-enter-animation>
+
+         <div class="partnersPanel__itemName"><a href="{{ landscape.url }}">{{ landscape.name }}</a></div>
+
+         {% assign number_of_landscapes_reddit_search = landscape.latest_reddit_searches | size %}
+         {% if number_of_landscapes_reddit_search > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Streamdata.io Reddit Searches:</strong></p>
+           <div style="height: 350px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for search in landscape.latest_reddit_searches %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.author }})</li>
+              {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+         {% assign number_of_landscapes_hacker_news_search = landscape.latest_hacker_news_searches | size %}
+         {% if number_of_landscapes_hacker_news_search > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest  Streamdata.io Hacker News Searches:</strong></p>
+           <div style="height: 350px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for search in landscape.latest_hacker_news_searches %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a></li>
+              {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+         {% assign number_of_landcape_stack_exchange_search = landcape.latest_stack_exchange_searches | size %}
+         {% if number_of_landcape_stack_exchange_search > 0 %}
+         <div style="padding-top: 7px; padding-bottom: 7px;">
+           <p><strong>The Latest Stack Exchange Searches:</strong></p>
+           <div style="height: 200px; overflow: scroll;">
+             <ul style="list-style-type: circle; padding-top: 15px;">
+               {% for search in landcape.latest_stack_exchange_searches %}
+                  <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.owner_display_name }})</li>
+              {% endfor %}
+             </ul>
+           </div>
+         </div>
+         {% endif %}
+
+      </div>
+      {% endfor %}
+
+
+   </div>
+</div>
+<!--list landscapes--->

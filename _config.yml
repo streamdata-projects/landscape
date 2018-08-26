@@ -1,3 +1,6 @@
+title: The Streaming Landscape
+url: landscape.streamdata.io
+philosophy: This is what we consider the landscape that Streamdata.io pays attention to. These are the keywords and key phrases that matter to what we do. This page searches Reddit, Stack Exchange, and Hacker News for any of these key words and lists the results here. We can add any other keyword, or search source in the future, as needed.
 landscape:
 - tag: Apache Kafka
   latest_curated: []
@@ -5372,12 +5375,3 @@ landscape:
     url: http://timothyfitz.wordpress.com/2009/02/09/what-webhooks-are-and-why-you-should-care/
     created_at: "2009-02-10"
     points: "71"
-curation:
-  Apache Kafka: []
-  Event-Driven Architecture: []
-  Machine Learning: []
-  Real Time API: []
-  Real Time Data: []
-  Streaming APIs: []
-  Streaming Data: []
-  Webhooks: []
