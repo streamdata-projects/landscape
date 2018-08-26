@@ -32,7 +32,7 @@ layout: default
       {% for landscape in landscapes %}
       <div class="partnersPanel__item enterAnimation" data-enter-animation>
 
-         <div class="partnersPanel__itemName"><a href="{{ landscape.url }}">{{ landscape.name }}</a></div>
+         <div class="partnersPanel__itemName">{{ landscape.tag }}</div>
 
          {% assign number_of_landscapes_reddit_search = landscape.latest_reddit_searches | size %}
          {% if number_of_landscapes_reddit_search > 0 %}
