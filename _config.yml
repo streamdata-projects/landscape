@@ -1,0 +1,3501 @@
+landscape:
+- tag: Apache Kafka
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "52005210"
+    title: NoClassDefFound - org/apache/kafka/clients/producer/KafkaProducer
+    url: https://stackoverflow.com/questions/52005210/noclassdeffound-org-apache-kafka-clients-producer-kafkaproducer
+    owner_display_name: Developer
+    owner_reputation: "7"
+    owner_link: https://stackoverflow.com/users/9795624/developer
+    creation_date: "2018-08-24"
+    view_count: "42"
+  - question_id: "51992719"
+    title: Apache Kafka validating consumer certificate
+    url: https://stackoverflow.com/questions/51992719/apache-kafka-validating-consumer-certificate
+    owner_display_name: CMPE
+    owner_reputation: "390"
+    owner_link: https://stackoverflow.com/users/4368131/cmpe
+    creation_date: "2018-08-23"
+    view_count: "9"
+  - question_id: "51965853"
+    title: Compute the size of a segment, partition and topic in Apache Kafka
+    url: https://stackoverflow.com/questions/51965853/compute-the-size-of-a-segment-partition-and-topic-in-apache-kafka
+    owner_display_name: Giorgos Myrianthous
+    owner_reputation: "2118"
+    owner_link: https://stackoverflow.com/users/7131757/giorgos-myrianthous
+    creation_date: "2018-08-22"
+    view_count: "22"
+  - question_id: "51971523"
+    title: IoT project with/without Apache Kafka
+    url: https://stackoverflow.com/questions/51971523/iot-project-with-without-apache-kafka
+    owner_display_name: abcdxyzw
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/8793505/abcdxyzw
+    creation_date: "2018-08-22"
+    view_count: "20"
+  - question_id: "51942663"
+    title: Why doesn&#39;t the Apache Kafka consumer use the Log4j2 root logger?
+    url: https://stackoverflow.com/questions/51942663/why-doesnt-the-apache-kafka-consumer-use-the-log4j2-root-logger
+    owner_display_name: Brad Urani
+    owner_reputation: "696"
+    owner_link: https://stackoverflow.com/users/474719/brad-urani
+    creation_date: "2018-08-20"
+    view_count: "40"
+  - question_id: "51903174"
+    title: Spring for Apache Kafka How to seekToEnd of a partition?
+    url: https://stackoverflow.com/questions/51903174/spring-for-apache-kafka-how-to-seektoend-of-a-partition
+    owner_display_name: robin bajaj
+    owner_reputation: "622"
+    owner_link: https://stackoverflow.com/users/278938/robin-bajaj
+    creation_date: "2018-08-17"
+    view_count: "85"
+  - question_id: "51899520"
+    title: Not able to start zookeeper thus apache kafka
+    url: https://stackoverflow.com/questions/51899520/not-able-to-start-zookeeper-thus-apache-kafka
+    owner_display_name: Elias Khattar
+    owner_reputation: "11"
+    owner_link: https://stackoverflow.com/users/9208293/elias-khattar
+    creation_date: "2018-08-17"
+    view_count: "41"
+  - question_id: "51888152"
+    title: Apache Kafka - Best method to do synchronous push to kafka using php
+    url: https://stackoverflow.com/questions/51888152/apache-kafka-best-method-to-do-synchronous-push-to-kafka-using-php
+    owner_display_name: Karthik
+    owner_reputation: "18"
+    owner_link: https://stackoverflow.com/users/545867/karthik
+    creation_date: "2018-08-16"
+    view_count: "14"
+  - question_id: "51886744"
+    title: Apache Kafka Consumer not receiving messages in Order
+    url: https://stackoverflow.com/questions/51886744/apache-kafka-consumer-not-receiving-messages-in-order
+    owner_display_name: Nishant Shrivastava
+    owner_reputation: "169"
+    owner_link: https://stackoverflow.com/users/2652825/nishant-shrivastava
+    creation_date: "2018-08-16"
+    view_count: "54"
+  - question_id: "51859671"
+    title: Apache Kafka How to check, that an event has been fully handled?
+    url: https://stackoverflow.com/questions/51859671/apache-kafka-how-to-check-that-an-event-has-been-fully-handled
+    owner_display_name: Maxim Webster
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/4685790/maxim-webster
+    creation_date: "2018-08-15"
+    view_count: "13"
+  - question_id: "51834024"
+    title: Apache Kafka Limitations
+    url: https://stackoverflow.com/questions/51834024/apache-kafka-limitations
+    owner_display_name: Stella
+    owner_reputation: "103"
+    owner_link: https://stackoverflow.com/users/213199/stella
+    creation_date: "2018-08-13"
+    view_count: "25"
+  - question_id: "51817529"
+    title: Apache Kafka Programmatic monitoring of consumer groups
+    url: https://stackoverflow.com/questions/51817529/apache-kafka-programmatic-monitoring-of-consumer-groups
+    owner_display_name: void
+    owner_reputation: "898"
+    owner_link: https://stackoverflow.com/users/2408270/void
+    creation_date: "2018-08-13"
+    view_count: "25"
+  - question_id: "51791367"
+    title: Apache Kafka/Spark/Streaming Approach
+    url: https://stackoverflow.com/questions/51791367/apache-kafka-spark-streaming-approach
+    owner_display_name: Ashish Nijai
+    owner_reputation: "140"
+    owner_link: https://stackoverflow.com/users/1934946/ashish-nijai
+    creation_date: "2018-08-10"
+    view_count: "65"
+  - question_id: "51784724"
+    title: Producer side compression in apache kafka
+    url: https://stackoverflow.com/questions/51784724/producer-side-compression-in-apache-kafka
+    owner_display_name: Urjit Patel
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/7617989/urjit-patel
+    creation_date: "2018-08-10"
+    view_count: "53"
+  - question_id: "51759823"
+    title: Topic side compression in apache kafka
+    url: https://stackoverflow.com/questions/51759823/topic-side-compression-in-apache-kafka
+    owner_display_name: Urjit Patel
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/7617989/urjit-patel
+    creation_date: "2018-08-08"
+    view_count: "38"
+  - question_id: "51702863"
+    title: Apache Kafka Message broadcasting
+    url: https://stackoverflow.com/questions/51702863/apache-kafka-message-broadcasting
+    owner_display_name: sachin thakur
+    owner_reputation: "2"
+    owner_link: https://stackoverflow.com/users/9831971/sachin-thakur
+    creation_date: "2018-08-06"
+    view_count: "27"
+  - question_id: "51720201"
+    title: how to consume previous messages in apache kafka
+    url: https://stackoverflow.com/questions/51720201/how-to-consume-previous-messages-in-apache-kafka
+    owner_display_name: omi138
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/9035882/omi138
+    creation_date: "2018-08-06"
+    view_count: "31"
+  - question_id: "51719045"
+    title: How can I use Apache Kafka as Caching Layer (MemCache,Hazelcast,Redis etc)
+    url: https://stackoverflow.com/questions/51719045/how-can-i-use-apache-kafka-as-caching-layer-memcache-hazelcast-redis-etc
+    owner_display_name: 'Amit '
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10189907/amit
+    creation_date: "2018-08-06"
+    view_count: "14"
+  - question_id: "51696762"
+    title: Sending Apache Kafka data on web page
+    url: https://stackoverflow.com/questions/51696762/sending-apache-kafka-data-on-web-page
+    owner_display_name: adis
+    owner_reputation: "75"
+    owner_link: https://stackoverflow.com/users/8501960/adis
+    creation_date: "2018-08-05"
+    view_count: "24"
+  - question_id: "51654919"
+    title: System cannot find the path --- Apache Kafka Zookeeper
+    url: https://stackoverflow.com/questions/51654919/system-cannot-find-the-path-apache-kafka-zookeeper
+    owner_display_name: Wuld
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/10171367/wuld
+    creation_date: "2018-08-02"
+    view_count: "65"
+  - question_id: "51629083"
+    title: Does Apache Kafka support receiving the most recent message per Id at start
+      of subscription?
+    url: https://stackoverflow.com/questions/51629083/does-apache-kafka-support-receiving-the-most-recent-message-per-id-at-start-of-s
+    owner_display_name: user3108007
+    owner_reputation: "16"
+    owner_link: https://stackoverflow.com/users/3108007/user3108007
+    creation_date: "2018-08-01"
+    view_count: "24"
+  - question_id: "51634407"
+    title: What&#39;s the difference between Spring Cloud Bus and Spring for Apache
+      Kafka?
+    url: https://stackoverflow.com/questions/51634407/whats-the-difference-between-spring-cloud-bus-and-spring-for-apache-kafka
+    owner_display_name: Tom Jerry
+    owner_reputation: "5"
+    owner_link: https://stackoverflow.com/users/7546789/tom-jerry
+    creation_date: "2018-08-01"
+    view_count: "16"
+  - question_id: "51519183"
+    title: how to get last event status in apache kafka topic
+    url: https://stackoverflow.com/questions/51519183/how-to-get-last-event-status-in-apache-kafka-topic
+    owner_display_name: leccionesonline
+    owner_reputation: "365"
+    owner_link: https://stackoverflow.com/users/1370047/leccionesonline
+    creation_date: "2018-07-25"
+    view_count: "56"
+  - question_id: "50865094"
+    title: Apache Beam over Apache Kafka Stream processing
+    url: https://stackoverflow.com/questions/50865094/apache-beam-over-apache-kafka-stream-processing
+    owner_display_name: Stella
+    owner_reputation: "103"
+    owner_link: https://stackoverflow.com/users/213199/stella
+    creation_date: "2018-06-14"
+    view_count: "333"
+  - question_id: "49276785"
+    title: Monitoring UI for Apache kafka - kafka manager vs kafka monitor
+    url: https://stackoverflow.com/questions/49276785/monitoring-ui-for-apache-kafka-kafka-manager-vs-kafka-monitor
+    owner_display_name: Mr.Pramod Anarase
+    owner_reputation: "409"
+    owner_link: https://stackoverflow.com/users/2632915/mr-pramod-anarase
+    creation_date: "2018-03-14"
+    view_count: "1422"
+  latest_reddit_searches:
+  - reddit_id: "95"
+    title: Robust Message Serialization in Apache Kafka Using Apache Avro, Part 3
+    url: http://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/
+    author: vitalijzad
+    created_date: "2018-08-08"
+    score: "2"
+  - reddit_id: "94"
+    title: 'rayokota/kafka-graphs : Graph Analytics with Apache Kafka'
+    url: https://github.com/rayokota/kafka-graphs
+    author: sclo
+    created_date: "2018-08-04"
+    score: "1"
+  - reddit_id: "93"
+    title: '@ZDNet: Confluent release adds enterprise, developer, IoT savvy to Apache
+      Kafka https://t.co/LQlbZTqwRV by @andrewbrust'
+    url: https://mobile.twitter.com/ZDNet/status/1024308736452481026
+    author: -en-
+    created_date: "2018-07-31"
+    score: "1"
+  - reddit_id: "9355"
+    title: Apache Kafka 2.0 has been released
+    url: https://www.apache.org/dist/kafka/2.0.0/RELEASE_NOTES.html
+    author: rmoff
+    created_date: "2018-07-30"
+    score: "18"
+  - reddit_id: "9326"
+    title: Apache Kafka meets Protobuf. My first blog post on systems design / architecture
+      and practical python
+    url: https://medium.com/@brynmathias/kafka-and-google-protobuf-a-match-made-in-python-a1bc3381da1a
+    author: memberZero_
+    created_date: "2018-07-30"
+    score: "6"
+  - reddit_id: "92"
+    title: Robust Message Serialization in Apache Kafka Using Apache Avro, Part 2
+    url: http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-2/
+    author: vitalijzad
+    created_date: "2018-07-29"
+    score: "1"
+  - reddit_id: "8"
+    title: 'Slides from my PGConfUK talk : Streaming ETL in Practice with Postgres,
+      Apache Kafka, and KSQL'
+    url: https://speakerdeck.com/rmoff/streaming-etl-in-practice-with-postgresql-apache-kafka-and-ksql
+    author: rmoff
+    created_date: "2018-07-03"
+    score: "16"
+  - reddit_id: "8"
+    title: "We \u2764\uFE0F syslogs: Real-time syslog processing with Apache Kafka
+      and KSQLPart 3: Enriching events with external data from UBNT devices"
+    url: https://cnfl.io/syslogs-enrich-events
+    author: rmoff
+    created_date: "2018-06-28"
+    score: "32"
+  - reddit_id: "8"
+    title: 'Siphon: Streaming data ingestion with Apache Kafka'
+    url: http://microsoftonlineguide.blogspot.com/2018/06/siphon-streaming-data-ingestion-with.html
+    author: kristenwaston
+    created_date: "2018-06-19"
+    score: "1"
+  - reddit_id: "8"
+    title: Analysing Network Data with Apache Kafka, KSQL, and Elasticsearch
+    url: https://rmoff.net/2018/06/17/analysing-network-data-with-apache-kafka-ksql-and-elasticsearch/
+    author: rmoff
+    created_date: "2018-06-18"
+    score: "8"
+  - reddit_id: "8"
+    title: Getting started with Apache Kafka in Python
+    url: http://blog.adnansiddiqi.me/getting-started-with-apache-kafka-in-python/?utm_source=r_python_kafka&amp;utm_medium=reddit&amp;utm_campaign=c_r_python_kafka
+    author: pknerd
+    created_date: "2018-06-12"
+    score: "163"
+  - reddit_id: "8"
+    title: Using KSQL, Apache Kafka, a Raspberry Pi and a software defined radio to
+      find the plane that wakes my cat
+    url: https://medium.com/@simon.aubury/using-ksql-apache-kafka-a-raspberry-pi-and-a-software-defined-radio-to-find-the-plane-that-wakes-14f6f9e74584
+    author: stephenbp66
+    created_date: "2018-06-06"
+    score: "120"
+  - reddit_id: "8"
+    title: Apache Kafka vs RabbitMQ
+    url: https://ryanmccue.ca/apache-kafka-vs-rabbitmq/
+    author: rymccue
+    created_date: "2018-05-29"
+    score: "11"
+  - reddit_id: "8"
+    title: Data Governance and GDPR with Apache Kafka
+    url: http://www.landoop.com/blog/2018/05/gdpr-kafka-data-in-motion/
+    author: landoop
+    created_date: "2018-05-21"
+    score: "4"
+  - reddit_id: "80"
+    title: Free Apache Kafka Certified Course
+    url: https://www.eduonix.com/apache-kafka-for-absolute-beginners?coupon_code=kafkaf18
+    author: ciaracodes
+    created_date: "2018-02-27"
+    score: "7"
+  - reddit_id: "7"
+    title: Apache Kafka foundation of modern data stream processing
+    url: https://jakubstransky.com/2016/11/02/introduction-to-apache-kafka-destilled/
+    author: jak_sky
+    created_date: "2018-02-24"
+    score: "21"
+  - reddit_id: "7"
+    title: Apache Kafka Introduction
+    url: https://thecuriousdev.org/apache-kafka-introduction/
+    author: soniewins
+    created_date: "2017-12-30"
+    score: "0"
+  - reddit_id: "7"
+    title: Apache Kafka - And the Other Way is Wrong
+    url: https://medium.com/@timothy_downs/introduction-to-redis-streams-133f1c375cd3
+    author: Fork82
+    created_date: "2017-12-17"
+    score: "287"
+  - reddit_id: "6"
+    title: 'Exactly-once Semantics is Possible: Here''s How Apache Kafka Does it'
+    url: https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/
+    author: palmereldritch
+    created_date: "2017-06-30"
+    score: "11"
+  - reddit_id: "6"
+    title: Starting a new Apache Kafka job in 2 months. Advice for complete beginner?
+    url: https://www.reddit.com/r/apachekafka/comments/6gmu75/starting_a_new_apache_kafka_job_in_2_months/
+    author: xsreality
+    created_date: "2017-06-11"
+    score: "5"
+  - reddit_id: "684"
+    title: 'Getting the message: Understanding when to use RabbitMQ vs. Apache Kafka'
+    url: https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
+    author: springnews
+    created_date: "2017-04-28"
+    score: "10"
+  - reddit_id: "3"
+    title: How To Build A Scalable Data Pipeline With Apache Kafka
+    url: http://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect
+    author: palmereldritch
+    created_date: "2015-12-17"
+    score: "24"
+  latest_hacker_news_searches:
+  - hacker_news_id: "17130172"
+    title: GCP and Confluent partner to deliver a managed Apache Kafka service
+    url: https://cloud.google.com/blog/big-data/2018/05/google-cloud-platform-and-confluent-partner-to-deliver-a-managed-apache-kafka-service
+    created_at: "2018-05-22"
+    points: "102"
+  - hacker_news_id: "17041571"
+    title: Commanding infinite streaming storage with Apache Kafka and Pyrostore
+    url: http://pyrostore.io/blog/2018/05/10/kafka-potential-past-present.html
+    created_at: "2018-05-10"
+    points: "68"
+  - hacker_news_id: "16118725"
+    title: Lenses 1.1 Kubernetes-Native SQL Streaming for Apache Kafka
+    url: http://www.landoop.com/blog/2018/01/lenses-release/
+    created_at: "2018-01-10"
+    points: "42"
+  - hacker_news_id: "15893909"
+    title: "Apache Kafka \u2013 Scaling SQL with KStream and Kafka Connect"
+    url: https://www.youtube.com/watch?v=denwxORF3pU
+    created_at: "2017-12-10"
+    points: "49"
+  - hacker_news_id: "15846539"
+    title: Apache Kafka and GDPR compliance
+    url: http://www.landoop.com/blog/2017/12/apache-kafka-gdpr-compliance/
+    created_at: "2017-12-04"
+    points: "84"
+  - hacker_news_id: "15601222"
+    title: Apache Kafka Goes 1.0
+    url: https://www.confluent.io/blog/apache-kafka-goes-1-0/
+    created_at: "2017-11-01"
+    points: "392"
+  - hacker_news_id: "15258547"
+    title: "It's Okay to Store Data in Apache Kafka"
+    url: https://www.confluent.io/blog/okay-store-data-apache-kafka/
+    created_at: "2017-09-15"
+    points: "41"
+  - hacker_news_id: "15184640"
+    title: Publishing with Apache Kafka at The New York Times
+    url: https://www.confluent.io/blog/publishing-apache-kafka-new-york-times/
+    created_at: "2017-09-06"
+    points: "369"
+  - hacker_news_id: "15117865"
+    title: KSQL Open Source Streaming SQL for Apache Kafka
+    url: https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/
+    created_at: "2017-08-28"
+    points: "278"
+  - hacker_news_id: "14894906"
+    title: Scaling Blockchains with Apache Kafka
+    url: https://blog.gridplus.io/scaling-blockchains-with-apache-kafka-814c85781c6
+    created_at: "2017-07-31"
+    points: "113"
+  - hacker_news_id: "13082133"
+    title: Benchmarking Commit Logs NATS Streaming vs. Apache Kafka
+    url: http://bravenewgeek.com/benchmarking-commit-logs/
+    created_at: "2016-12-01"
+    points: "75"
+  - hacker_news_id: "12533367"
+    title: Why I am not a fan of Apache Kafka
+    url: https://gist.github.com/markrendle/26e423b6597685757732
+    created_at: "2016-09-19"
+    points: "70"
+  - hacker_news_id: "11927279"
+    title: Building a Streaming Analytics Stack with Apache Kafka and Druid
+    url: http://www.confluent.io/blog/building-a-streaming-analytics-stack-with-apache-kafka-and-druid
+    created_at: "2016-06-17"
+    points: "55"
+  - hacker_news_id: "10621672"
+    title: Apache Kafka 0.9 is released
+    url: http://www.confluent.io/blog/apache-kafka-0.9-is-released
+    created_at: "2015-11-24"
+    points: "163"
+  - hacker_news_id: "10320296"
+    title: Using Apache Kafka for Consumer Metrics
+    url: http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics
+    created_at: "2015-10-02"
+    points: "47"
+  - hacker_news_id: "10010783"
+    title: Apache Kafka, Samza, and the Unix Philosophy of Distributed Data
+    url: http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data
+    created_at: "2015-08-05"
+    points: "174"
+  - hacker_news_id: "9238929"
+    title: Running Apache Kafka at Scale
+    url: https://engineering.linkedin.com/kafka/running-kafka-scale
+    created_at: "2015-03-20"
+    points: "49"
+  - hacker_news_id: "8569930"
+    title: Confluent, a company for Apache Kafka and realtime data
+    url: https://www.linkedin.com/pulse/article/20141106180403-2945786-announcing-confluent-a-company-for-apache-kafka-and-realtime-data?trk=hp-feed-article-title
+    created_at: "2014-11-06"
+    points: "108"
+  - hacker_news_id: "7386652"
+    title: "Apache Kafka \u2013 Publish-subscribe messaging rethought as a distributed
+      commit log"
+    url: https://kafka.apache.org/
+    created_at: "2014-03-12"
+    points: "165"
+  - hacker_news_id: "6874378"
+    title: Apache Kafka 0.8.0 released
+    url: http://kafka.apache.org/downloads.html
+    created_at: "2013-12-09"
+    points: "119"
+- tag: Event-Driven Architecture
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "51916102"
+    title: Is microservice architecture using message queues and event driven architecture
+      same
+    url: https://stackoverflow.com/questions/51916102/is-microservice-architecture-using-message-queues-and-event-driven-architecture
+    owner_display_name: inode
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/2226799/inode
+    creation_date: "2018-08-19"
+    view_count: "29"
+  - question_id: "51421205"
+    title: How to trigger an action only after receiving two or more events in an
+      event driven architecture?
+    url: https://stackoverflow.com/questions/51421205/how-to-trigger-an-action-only-after-receiving-two-or-more-events-in-an-event-dri
+    owner_display_name: Renato Gama
+    owner_reputation: "10030"
+    owner_link: https://stackoverflow.com/users/91403/renato-gama
+    creation_date: "2018-07-19"
+    view_count: "26"
+  - question_id: "50986816"
+    title: How to handle HTTP requests in a Microservice / Event Driven Architecture?
+    url: https://stackoverflow.com/questions/50986816/how-to-handle-http-requests-in-a-microservice-event-driven-architecture
+    owner_display_name: Jonathan Thurft
+    owner_reputation: "1500"
+    owner_link: https://stackoverflow.com/users/1535747/jonathan-thurft
+    creation_date: "2018-06-22"
+    view_count: "439"
+  - question_id: "50760313"
+    title: Documenting an Event-Driven Architecture
+    url: https://stackoverflow.com/questions/50760313/documenting-an-event-driven-architecture
+    owner_display_name: Victor
+    owner_reputation: "4350"
+    owner_link: https://stackoverflow.com/users/329082/victor
+    creation_date: "2018-06-08"
+    view_count: "25"
+  - question_id: "49136733"
+    title: How to control idempotency of messages in an event-driven architecture?
+    url: https://stackoverflow.com/questions/49136733/how-to-control-idempotency-of-messages-in-an-event-driven-architecture
+    owner_display_name: Juan Vega
+    owner_reputation: "304"
+    owner_link: https://stackoverflow.com/users/2214751/juan-vega
+    creation_date: "2018-03-06"
+    view_count: "104"
+  - question_id: "48074348"
+    title: Building blocks of event-driven architecture
+    url: https://stackoverflow.com/questions/48074348/building-blocks-of-event-driven-architecture
+    owner_display_name: overexchange
+    owner_reputation: "3419"
+    owner_link: https://stackoverflow.com/users/3317808/overexchange
+    creation_date: "2018-01-03"
+    view_count: "57"
+  - question_id: "47653494"
+    title: create restful apis with Event driven architecture node js?
+    url: https://stackoverflow.com/questions/47653494/create-restful-apis-with-event-driven-architecture-node-js
+    owner_display_name: ashwintastic
+    owner_reputation: "1085"
+    owner_link: https://stackoverflow.com/users/4991626/ashwintastic
+    creation_date: "2017-12-05"
+    view_count: "304"
+  - question_id: "47554214"
+    title: Design choice for a microservice event-driven architecture
+    url: https://stackoverflow.com/questions/47554214/design-choice-for-a-microservice-event-driven-architecture
+    owner_display_name: Odsh
+    owner_reputation: "364"
+    owner_link: https://stackoverflow.com/users/852330/odsh
+    creation_date: "2017-11-29"
+    view_count: "242"
+  - question_id: "46615008"
+    title: Microservices Service discovery/ circuit breaker for Event-driven architecture
+    url: https://stackoverflow.com/questions/46615008/microservices-service-discovery-circuit-breaker-for-event-driven-architecture
+    owner_display_name: rm12345
+    owner_reputation: "111"
+    owner_link: https://stackoverflow.com/users/5634661/rm12345
+    creation_date: "2017-10-06"
+    view_count: "270"
+  - question_id: "43598939"
+    title: API gateway for event-driven architecture
+    url: https://stackoverflow.com/questions/43598939/api-gateway-for-event-driven-architecture
+    owner_display_name: alexander
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/7889714/alexander
+    creation_date: "2017-04-24"
+    view_count: "513"
+  - question_id: "42140285"
+    title: How to implement a microservice Event Driven architecture with Spring Cloud
+      Stream Kafka and Database per service
+    url: https://stackoverflow.com/questions/42140285/how-to-implement-a-microservice-event-driven-architecture-with-spring-cloud-stre
+    owner_display_name: codependent
+    owner_reputation: "6111"
+    owner_link: https://stackoverflow.com/users/1729795/codependent
+    creation_date: "2017-02-09"
+    view_count: "2299"
+  - question_id: "41041058"
+    title: Event-driven architecture - why is there no tool for this?
+    url: https://stackoverflow.com/questions/41041058/event-driven-architecture-why-is-there-no-tool-for-this
+    owner_display_name: Ryan
+    owner_reputation: "2378"
+    owner_link: https://stackoverflow.com/users/645924/ryan
+    creation_date: "2016-12-08"
+    view_count: "159"
+  - question_id: "40927422"
+    title: Azure service bus topic receive message with session with event driven
+      architecture model
+    url: https://stackoverflow.com/questions/40927422/azure-service-bus-topic-receive-message-with-session-with-event-driven-architect
+    owner_display_name: Mahesh
+    owner_reputation: "558"
+    owner_link: https://stackoverflow.com/users/1957871/mahesh
+    creation_date: "2016-12-02"
+    view_count: "119"
+  - question_id: "38711908"
+    title: How many database in a Microservices Event Driven architecture?
+    url: https://stackoverflow.com/questions/38711908/how-many-database-in-a-microservices-event-driven-architecture
+    owner_display_name: Adriano Foschi
+    owner_reputation: "333"
+    owner_link: https://stackoverflow.com/users/2568351/adriano-foschi
+    creation_date: "2016-08-01"
+    view_count: "1154"
+  - question_id: "37830008"
+    title: Handling multiple event dependency in event-driven architecture
+    url: https://stackoverflow.com/questions/37830008/handling-multiple-event-dependency-in-event-driven-architecture
+    owner_display_name: Patrick
+    owner_reputation: "528"
+    owner_link: https://stackoverflow.com/users/74012/patrick
+    creation_date: "2016-06-15"
+    view_count: "344"
+  - question_id: "37683323"
+    title: What exactly is the difference between event driven architecture and message
+      driven architecture in The Reactive Manifesto?
+    url: https://stackoverflow.com/questions/37683323/what-exactly-is-the-difference-between-event-driven-architecture-and-message-dri
+    owner_display_name: oblivion
+    owner_reputation: "1582"
+    owner_link: https://stackoverflow.com/users/5700967/oblivion
+    creation_date: "2016-06-07"
+    view_count: "730"
+  - question_id: "37395986"
+    title: IBM MQ vs Apache Kafka as a message broker/engine for Event Driven Architecture
+      and Microservices Architecture
+    url: https://stackoverflow.com/questions/37395986/ibm-mq-vs-apache-kafka-as-a-message-broker-engine-for-event-driven-architecture
+    owner_display_name: Michael Qin
+    owner_reputation: "65"
+    owner_link: https://stackoverflow.com/users/4694344/michael-qin
+    creation_date: "2016-05-23"
+    view_count: "474"
+  - question_id: "35251874"
+    title: Testing event-driven architecture
+    url: https://stackoverflow.com/questions/35251874/testing-event-driven-architecture
+    owner_display_name: Dariss
+    owner_reputation: "812"
+    owner_link: https://stackoverflow.com/users/1757145/dariss
+    creation_date: "2016-02-07"
+    view_count: "376"
+  - question_id: "34545336"
+    title: Event-driven architecture and structure of events
+    url: https://stackoverflow.com/questions/34545336/event-driven-architecture-and-structure-of-events
+    owner_display_name: C&#233;dric L. Charlier
+    owner_reputation: "512"
+    owner_link: https://stackoverflow.com/users/2138904/c%c3%a9dric-l-charlier
+    creation_date: "2015-12-31"
+    view_count: "906"
+  - question_id: "34006642"
+    title: Spring4d Event Driven Architecture or How to retrieve all instances of
+      a given interface
+    url: https://stackoverflow.com/questions/34006642/spring4d-event-driven-architecture-or-how-to-retrieve-all-instances-of-a-given-i
+    owner_display_name: Ludo
+    owner_reputation: "1434"
+    owner_link: https://stackoverflow.com/users/3211143/ludo
+    creation_date: "2015-11-30"
+    view_count: "310"
+  - question_id: "29183183"
+    title: An example of Event-Driven architecture?
+    url: https://stackoverflow.com/questions/29183183/an-example-of-event-driven-architecture
+    owner_display_name: Cristian
+    owner_reputation: "44"
+    owner_link: https://stackoverflow.com/users/4697260/cristian
+    creation_date: "2015-03-21"
+    view_count: "399"
+  - question_id: "27429096"
+    title: How to initialise a scala/akka Actor in an event driven architecture?
+    url: https://stackoverflow.com/questions/27429096/how-to-initialise-a-scala-akka-actor-in-an-event-driven-architecture
+    owner_display_name: mert inan
+    owner_reputation: "753"
+    owner_link: https://stackoverflow.com/users/609540/mert-inan
+    creation_date: "2014-12-11"
+    view_count: "206"
+  - question_id: "24935323"
+    title: How to secure unaware components within an Event Driven Architecture?
+    url: https://stackoverflow.com/questions/24935323/how-to-secure-unaware-components-within-an-event-driven-architecture
+    owner_display_name: RoyB
+    owner_reputation: "2226"
+    owner_link: https://stackoverflow.com/users/3305586/royb
+    creation_date: "2014-07-24"
+    view_count: "49"
+  - question_id: "22168363"
+    title: How to handle transaction in event driven architecture?
+    url: https://stackoverflow.com/questions/22168363/how-to-handle-transaction-in-event-driven-architecture
+    owner_display_name: Ricola
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/3378394/ricola
+    creation_date: "2014-03-04"
+    view_count: "859"
+  - question_id: "21418894"
+    title: Exception handling and state control in an Event Driven Architecture
+    url: https://stackoverflow.com/questions/21418894/exception-handling-and-state-control-in-an-event-driven-architecture
+    owner_display_name: AdrianGW
+    owner_reputation: "83"
+    owner_link: https://stackoverflow.com/users/3246399/adriangw
+    creation_date: "2014-01-28"
+    view_count: "590"
+  latest_reddit_searches:
+  - reddit_id: "8"
+    title: The 4 Event-Driven Architectures
+    url: https://ryanmccue.ca/the-4-event-driven-architectures/
+    author: rymccue
+    created_date: "2018-05-08"
+    score: "0"
+  - reddit_id: "8"
+    title: 'Jay Kreps @ Kafka Summit: The Death and Rebirth of the Event Driven Architecture'
+    url: https://www.youtube.com/watch?v=gsUZ6RYmL1s
+    author: rmoff
+    created_date: "2018-04-24"
+    score: "4"
+  - reddit_id: "7"
+    title: 'Serverless Databases: The Future of Event-Driven Architecture'
+    url: https://www.simform.com/serverless-databases/
+    author: bprogramming
+    created_date: "2018-02-14"
+    score: "1"
+  - reddit_id: "7"
+    title: Event-Driven Architecture in the Cloud with Azure Event Grid
+    url: https://msdn.microsoft.com/en-us/magazine/mt829271
+    author: rschiefer
+    created_date: "2018-02-02"
+    score: "8"
+  - reddit_id: "7"
+    title: "GOTO 2017 \u2022 The Many Meanings of Event-Driven Architecture \u2022
+      Martin Fowler"
+    url: https://m.youtube.com/watch?v=STKCRSUsyP0
+    author: YourselfYou
+    created_date: "2018-01-21"
+    score: "1"
+  - reddit_id: "7"
+    title: "GOTO 2017 \u2022 The Many Meanings of Event-Driven Architecture \u2022
+      Martin Fowler"
+    url: https://www.youtube.com/watch?v=STKCRSUsyP0
+    author: p7r
+    created_date: "2018-01-18"
+    score: "3"
+  - reddit_id: "7"
+    title: Good summary and conversation about Serverless for Event Driven architectures
+    url: https://softwareengineeringdaily.com/2017/11/14/serverless-event-driven-architecture-with-danilo-poccia/
+    author: plainprogrammer
+    created_date: "2017-11-14"
+    score: "6"
+  - reddit_id: "775"
+    title: Command Query Responsibility Segregation &amp; Event-Driven Architecture
+      with Nest (Node.js)
+    url: https://github.com/nestjs/cqrs
+    author: mysliwik
+    created_date: "2017-10-18"
+    score: "8"
+  - reddit_id: "765"
+    title: 'Java NIO: Event-Driven Architecture Over Polling Architecture - DZone
+      Java'
+    url: https://dzone.com/articles/event-driven-architecture-over-polling-architecture
+    author: CatGifBot
+    created_date: "2017-10-13"
+    score: "1"
+  - reddit_id: "74"
+    title: Event-Driven Architecture
+    url: https://herbertograca.com/2017/10/05/event-driven-architecture/
+    author: hgraca
+    created_date: "2017-10-05"
+    score: "9"
+  - reddit_id: "6"
+    title: According To Martin Fowler, Nobody Knows What Event-Driven Architecture
+      Really Is
+    url: https://youtu.be/STKCRSUsyP0
+    author: fagnerbrack
+    created_date: "2017-07-05"
+    score: "26"
+  - reddit_id: "6"
+    title: 'A #Serverless Event Driven Architecture for #Chatbots'
+    url: https://medium.com/@mustafaturan/a-serverless-event-driven-architecture-for-chatbots-3095eb40cbb7
+    author: mtrnx
+    created_date: "2017-06-26"
+    score: "3"
+  - reddit_id: "6"
+    title: 'Node.fz: fuzzing the server-side event-driven architecture'
+    url: https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/
+    author: campuscodi
+    created_date: "2017-06-09"
+    score: "55"
+  - reddit_id: "6"
+    title: CQRS, event-driven architecture in Node.js with Nest framework
+    url: https://github.com/kamilmysliwiec/nest-cqrs
+    author: mysliwik
+    created_date: "2017-06-04"
+    score: "5"
+  - reddit_id: "69"
+    title: Understanding Node.js Event-Driven Architecture
+    url: https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d
+    author: samerbuna
+    created_date: "2017-05-08"
+    score: "1"
+  - reddit_id: "4"
+    title: Event-driven architecture 101
+    url: https://medium.com/@PierreZ/event-driven-architecture-101-d8e13cc4c656
+    author: deadalus56
+    created_date: "2016-05-15"
+    score: "33"
+  - reddit_id: "4"
+    title: "Event Driven Architecture  How ReactPHP / PHP-PM work behind the
+      hood"
+    url: https://gnugat.github.io/2016/04/27/event-driven-architecture.html
+    author: gnurat
+    created_date: "2016-04-27"
+    score: "17"
+  - reddit_id: "48"
+    title: "Senior C# Developer - ( Event Driven Architecture EDA ) has salary \xA365k
+      - \xA385k. Contact person is Tom Ricucci"
+    url: https://www.reddit.com/r/AngJobs/comments/48hpvs/senior_c_developer_event_driven_architecture_eda/
+    author: AngJobs
+    created_date: "2016-03-01"
+    score: "1"
+  latest_hacker_news_searches:
+  - hacker_news_id: "17427379"
+    title: Why strong consistency matters with event-driven architectures
+    url: https://blog.fauna.com/why-strong-consistency-with-event-driven
+    created_at: "2018-06-29"
+    points: "3"
+  - hacker_news_id: "17018256"
+    title: The 4 Event-Driven Architectures
+    url: https://ryanmccue.ca/the-4-event-driven-architectures/
+    created_at: "2018-05-07"
+    points: "4"
+  - hacker_news_id: "16912405"
+    title: Jay Kreps, Kafka Summit The Death and Rebirth of the Event Driven Architecture
+    url: https://www.youtube.com/watch?v=gsUZ6RYmL1s
+    created_at: "2018-04-24"
+    points: "7"
+  - hacker_news_id: "16819721"
+    title: Event-driven architecture implementation
+    url: https://hackernoon.com/event-driven-architecture-implementation-140c51820845
+    created_at: "2018-04-12"
+    points: "3"
+  - hacker_news_id: "16376727"
+    title: Serverless Databases The Future of Event-Driven Architecture
+    url: https://www.simform.com/serverless-databases/
+    created_at: "2018-02-14"
+    points: "133"
+  - hacker_news_id: "15661402"
+    title: Real-Time, Event-Driven Architecture 101 with RethinkDB
+    url: https://medium.com/@lolski/real-time-event-driven-architecture-101-with-rethinkdb-77caf55aff8b
+    created_at: "2017-11-09"
+    points: "3"
+  - hacker_news_id: "15447710"
+    title: Event-Driven Architecture
+    url: https://herbertograca.com/2017/10/05/event-driven-architecture/
+    created_at: "2017-10-10"
+    points: "154"
+  - hacker_news_id: "15416154"
+    title: BlockChain vs. Event-Driven Architecture
+    url: https://www.smalsresearch.be/blockchain-vs-event-driven-architecture/
+    created_at: "2017-10-06"
+    points: "11"
+  - hacker_news_id: "14646702"
+    title: Emit the conference on event driven architecture
+    url: https://serverless.com/blog/announcing-emit-2017/
+    created_at: "2017-06-27"
+    points: "3"
+  - hacker_news_id: "14522234"
+    title: Node.fz fuzzing the server-side event-driven architecture
+    url: https://blog.acolyer.org/2017/06/09/node-fz-fuzzing-the-server-side-event-driven-architecture/
+    created_at: "2017-06-09"
+    points: "46"
+  - hacker_news_id: "14339812"
+    title: Martin Fowler The Many Meanings of Event-Driven Architecture
+    url: https://www.youtube.com/watch?v=STKCRSUsyP0
+    created_at: "2017-05-15"
+    points: "3"
+  - hacker_news_id: "14289551"
+    title: Understanding Node.js Event-Driven Architecture
+    url: https://medium.freecodecamp.com/understanding-node-js-event-driven-architecture-223292fcbc2d
+    created_at: "2017-05-07"
+    points: "72"
+  - hacker_news_id: "11627713"
+    title: "Event Driven Architecture \u2013 how NodeJs and Nginx work behind the
+      hood"
+    url: https://gnugat.github.io/2016/04/27/event-driven-architecture.html
+    created_at: "2016-05-04"
+    points: "6"
+  - hacker_news_id: "9372012"
+    title: AWS Lambda Event-Driven Architecture with Amazon SNS
+    url: http://alestic.com/2015/04/aws-lambda-sns
+    created_at: "2015-04-13"
+    points: "2"
+  - hacker_news_id: "6142615"
+    title: 'Event-driven architecture, state machines et al. '
+    url: http://250bpm.com/blog:25
+    created_at: "2013-08-01"
+    points: "3"
+  - hacker_news_id: "5960969"
+    title: AuraJS  event-driven architecture for developing scalable applications
+    url: http://aurajs.com/
+    created_at: "2013-06-28"
+    points: "51"
+  - hacker_news_id: "1771827"
+    title: The basic idea of Domain Event Driven Architecture
+    url: http://weblog.madebymonsieur.com/basic-idea-of-domain-eda/
+    created_at: "2010-10-08"
+    points: "17"
+  - hacker_news_id: "1750804"
+    title: Why Domain Event Driven Architecture
+    url: http://weblog.madebymonsieur.com/why-domain-event-driven-architecture/
+    created_at: "2010-10-02"
+    points: "3"
+  - hacker_news_id: "548946"
+    title: Henry Ford & Event Driven Architecture Reinventing the assembly line
+    url: http://www.igvita.com/2009/04/06/henry-ford-event-driven-architecture/
+    created_at: "2009-04-06"
+    points: "20"
+- tag: Machine Learning
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "52012992"
+    title: How can we think of hypothesis and decide which approach to use based on
+      sample data in Machine Learning?
+    url: https://stackoverflow.com/questions/52012992/how-can-we-think-of-hypothesis-and-decide-which-approach-to-use-based-on-sample
+    owner_display_name: Gaurav Parvadiya
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/2191551/gaurav-parvadiya
+    creation_date: "2018-08-24"
+    view_count: "17"
+  - question_id: "52009218"
+    title: Azure Machine Learning Web Service Error Code 0001 Resolution NEEDED
+    url: https://stackoverflow.com/questions/52009218/azure-machine-learning-web-service-error-code-0001-resolution-needed
+    owner_display_name: Shinyui
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10270703/shinyui
+    creation_date: "2018-08-24"
+    view_count: "15"
+  - question_id: "52004548"
+    title: "Machine Learning - Modeling a CNN to identify if image \u201Cis\u201D
+      or \u201Cisn&#39;t\u201D something"
+    url: https://stackoverflow.com/questions/52004548/machine-learning-modeling-a-cnn-to-identify-if-image-is-or-isnt-something
+    owner_display_name: WilsonPena
+    owner_reputation: "355"
+    owner_link: https://stackoverflow.com/users/8644717/wilsonpena
+    creation_date: "2018-08-24"
+    view_count: "38"
+  - question_id: "52002652"
+    title: watson-machine-learning-client issues in deploying published model
+    url: https://stackoverflow.com/questions/52002652/watson-machine-learning-client-issues-in-deploying-published-model
+    owner_display_name: Gurvinder Singh
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/6097340/gurvinder-singh
+    creation_date: "2018-08-24"
+    view_count: "14"
+  - question_id: "51989992"
+    title: Recipe Tag Classification with Machine Learning Algorithms
+    url: https://stackoverflow.com/questions/51989992/recipe-tag-classification-with-machine-learning-algorithms
+    owner_display_name: TheoD
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10265718/theod
+    creation_date: "2018-08-23"
+    view_count: "12"
+  - question_id: "51984586"
+    title: Python Code Examples - Especially for Machine Learning
+    url: https://stackoverflow.com/questions/51984586/python-code-examples-especially-for-machine-learning
+    owner_display_name: CodingButStillAlive
+    owner_reputation: "161"
+    owner_link: https://stackoverflow.com/users/1881788/codingbutstillalive
+    creation_date: "2018-08-23"
+    view_count: "15"
+  - question_id: "51966899"
+    title: In Azure Stream Analytics Bad Request results when calling Azure Machine
+      Learning function even though Azure ML service is called fine from C#
+    url: https://stackoverflow.com/questions/51966899/in-azure-stream-analytics-bad-request-results-when-calling-azure-machine-learnin
+    owner_display_name: GHariz
+    owner_reputation: "41"
+    owner_link: https://stackoverflow.com/users/6031769/ghariz
+    creation_date: "2018-08-22"
+    view_count: "54"
+  - question_id: "51975617"
+    title: Common web servers/frameworks for deploying python machine learning models?
+    url: https://stackoverflow.com/questions/51975617/common-web-servers-frameworks-for-deploying-python-machine-learning-models
+    owner_display_name: Tom
+    owner_reputation: "35"
+    owner_link: https://stackoverflow.com/users/5615492/tom
+    creation_date: "2018-08-22"
+    view_count: "15"
+  - question_id: "51979040"
+    title: How to implement machine learning in Webdev?
+    url: https://stackoverflow.com/questions/51979040/how-to-implement-machine-learning-in-webdev
+    owner_display_name: Eshwar NE
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10259827/eshwar-ne
+    creation_date: "2018-08-22"
+    view_count: "13"
+  - question_id: "51971844"
+    title: Retraining the Inception V3 Model for Machine Learning
+    url: https://stackoverflow.com/questions/51971844/retraining-the-inception-v3-model-for-machine-learning
+    owner_display_name: student17
+    owner_reputation: "73"
+    owner_link: https://stackoverflow.com/users/8926217/student17
+    creation_date: "2018-08-22"
+    view_count: "30"
+  - question_id: "51969472"
+    title: How does shuffling work with ImageDataGenerator in Machine Learning?
+    url: https://stackoverflow.com/questions/51969472/how-does-shuffling-work-with-imagedatagenerator-in-machine-learning
+    owner_display_name: student17
+    owner_reputation: "73"
+    owner_link: https://stackoverflow.com/users/8926217/student17
+    creation_date: "2018-08-22"
+    view_count: "27"
+  - question_id: "51964337"
+    title: Best machine learning method to determine categories by title
+    url: https://stackoverflow.com/questions/51964337/best-machine-learning-method-to-determine-categories-by-title
+    owner_display_name: Ryan Litwiller
+    owner_reputation: "280"
+    owner_link: https://stackoverflow.com/users/5289402/ryan-litwiller
+    creation_date: "2018-08-22"
+    view_count: "36"
+  - question_id: "51962076"
+    title: Which machine learning algorithm is most popular in distribution system
+      topology estimation?
+    url: https://stackoverflow.com/questions/51962076/which-machine-learning-algorithm-is-most-popular-in-distribution-system-topology
+    owner_display_name: Haibo Tang
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10258349/haibo-tang
+    creation_date: "2018-08-22"
+    view_count: "11"
+  - question_id: "51947603"
+    title: Correlation between variables in Machine Learning
+    url: https://stackoverflow.com/questions/51947603/correlation-between-variables-in-machine-learning
+    owner_display_name: Vinaya Chandra H G
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9088003/vinaya-chandra-h-g
+    creation_date: "2018-08-21"
+    view_count: "21"
+  - question_id: "51951043"
+    title: Machine Learning Two class classification
+    url: https://stackoverflow.com/questions/51951043/machine-learning-two-class-classification
+    owner_display_name: Alexander Johansson
+    owner_reputation: "26"
+    owner_link: https://stackoverflow.com/users/6471007/alexander-johansson
+    creation_date: "2018-08-21"
+    view_count: "45"
+  - question_id: "51946742"
+    title: machine learning Value error Unknown label type
+    url: https://stackoverflow.com/questions/51946742/machine-learning-value-error-unknown-label-type
+    owner_display_name: Sonali Lagnajita
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10253467/sonali-lagnajita
+    creation_date: "2018-08-21"
+    view_count: "20"
+  - question_id: "51951526"
+    title: Spam Classifier machine learning model (not getting the right prediction)
+    url: https://stackoverflow.com/questions/51951526/spam-classifier-machine-learning-model-not-getting-the-right-prediction
+    owner_display_name: Muhammad
+    owner_reputation: "2"
+    owner_link: https://stackoverflow.com/users/9649801/muhammad
+    creation_date: "2018-08-21"
+    view_count: "25"
+  - question_id: "51957171"
+    title: Healthcare Datasets for Machine Learning Problems
+    url: https://stackoverflow.com/questions/51957171/healthcare-datasets-for-machine-learning-problems
+    owner_display_name: Akshit A.
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9605728/akshit-a
+    creation_date: "2018-08-21"
+    view_count: "19"
+  - question_id: "51955762"
+    title: machine learning based solution for categorizing files based on layout
+      and content
+    url: https://stackoverflow.com/questions/51955762/machine-learning-based-solution-for-categorizing-files-based-on-layout-and-conte
+    owner_display_name: user10256551
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10256551/user10256551
+    creation_date: "2018-08-21"
+    view_count: "14"
+  - question_id: "51954691"
+    title: Predicting with two classes in machine learning
+    url: https://stackoverflow.com/questions/51954691/predicting-with-two-classes-in-machine-learning
+    owner_display_name: student17
+    owner_reputation: "73"
+    owner_link: https://stackoverflow.com/users/8926217/student17
+    creation_date: "2018-08-21"
+    view_count: "38"
+  - question_id: "51943935"
+    title: Online machine learning in R
+    url: https://stackoverflow.com/questions/51943935/online-machine-learning-in-r
+    owner_display_name: JacobJacox
+    owner_reputation: "62"
+    owner_link: https://stackoverflow.com/users/9405826/jacobjacox
+    creation_date: "2018-08-21"
+    view_count: "56"
+  - question_id: "51943585"
+    title: Using machine learning (ANN) to classify odd numbers
+    url: https://stackoverflow.com/questions/51943585/using-machine-learning-ann-to-classify-odd-numbers
+    owner_display_name: user92953
+    owner_reputation: "16"
+    owner_link: https://stackoverflow.com/users/4439728/user92953
+    creation_date: "2018-08-21"
+    view_count: "44"
+  - question_id: "51855092"
+    title: What is the purpose and meaning of these machine learning output files?
+    url: https://stackoverflow.com/questions/51855092/what-is-the-purpose-and-meaning-of-these-machine-learning-output-files
+    owner_display_name: user1315789
+    owner_reputation: "371"
+    owner_link: https://stackoverflow.com/users/7518091/user1315789
+    creation_date: "2018-08-15"
+    view_count: "43"
+  - question_id: "51811772"
+    title: How to train machine learning models for all the rows of a large structured
+      dataset?
+    url: https://stackoverflow.com/questions/51811772/how-to-train-machine-learning-models-for-all-the-rows-of-a-large-structured-data
+    owner_display_name: jkashish1818
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/9468213/jkashish1818
+    creation_date: "2018-08-12"
+    view_count: "36"
+  - question_id: "51773865"
+    title: What is the color score in the fruit_data examples used in Machine Learning
+      tutorials?
+    url: https://stackoverflow.com/questions/51773865/what-is-the-color-score-in-the-fruit-data-examples-used-in-machine-learning-tuto
+    owner_display_name: searain
+    owner_reputation: "301"
+    owner_link: https://stackoverflow.com/users/5066083/searain
+    creation_date: "2018-08-09"
+    view_count: "23"
+  latest_reddit_searches:
+  - reddit_id: "99"
+    title: Me with my 72 node Raspberry pi cluster built to perform distributed technical
+      document summarization using machine learning
+    url: https://i.redd.it/q58vi2vanyh11.jpg
+    author: sourcedexter
+    created_date: "2018-08-24"
+    score: "614"
+  - reddit_id: "9"
+    title: Is Machine Learning Overhyped?
+    url: https://www.reddit.com/r/compsci/comments/9a1o03/is_machine_learning_overhyped/
+    author: GoldRisk
+    created_date: "2018-08-24"
+    score: "110"
+  - reddit_id: "996"
+    title: '[Infographic] Using Machine Learning to Realign the NCAA FBS College Football
+      Conferences'
+    url: https://maxakaplan.com/2018/08/21/college-football-realignment-machine-learning/
+    author: tgomax
+    created_date: "2018-08-21"
+    score: "110"
+  - reddit_id: "97"
+    title: Machine Learning Can Now Identify Who Wrote a Piece of Code
+    url: https://digit.fyi/ai-identifies-code-authors/
+    author: DevilsRefugee
+    created_date: "2018-08-16"
+    score: "101"
+  - reddit_id: "96"
+    title: Machine Learning
+    url: https://i.imgur.com/Q1QfZ92.jpg
+    author: zackh105
+    created_date: "2018-08-11"
+    score: "27156"
+  - reddit_id: "95"
+    title: Machine learning
+    url: https://i.redd.it/prs0siyql3f11.jpg
+    author: GovSchwarzenegger
+    created_date: "2018-08-09"
+    score: "692"
+  - reddit_id: "94"
+    title: "Magical thinking about machine learning won't bring the reality of
+      AI any closer"
+    url: https://www.theguardian.com/commentisfree/2018/aug/05/magical-thinking-about-machine-learning-will-not-bring-artificial-intelligence-any-closer?CMP=Share_AndroidApp_reddit_is_fun_golden_platinum
+    author: dead10ck
+    created_date: "2018-08-06"
+    score: "502"
+  - reddit_id: "92"
+    title: A Guide to landing a Data Science/Machine Learning job.
+    url: https://www.reddit.com/r/cscareerquestions/comments/92ouzd/a_guide_to_landing_a_data_sciencemachine_learning/
+    author: AX-BY-CZ
+    created_date: "2018-07-28"
+    score: "518"
+  - reddit_id: "92"
+    title: I used machine learning to cluster league champions by their icons. Apparently
+      Taric is a waifu.
+    url: https://www.reddit.com/r/leagueoflegends/comments/92fcoq/i_used_machine_learning_to_cluster_league/
+    author: HighPotNoose
+    created_date: "2018-07-27"
+    score: "445"
+  - reddit_id: "920"
+    title: Windows 10 now uses machine learning to stop updates installing when a
+      PC is in use
+    url: https://www.theverge.com/2018/7/25/17614842/microsoft-windows-10-updates-reboot-pc-machine-learning-feature
+    author: i_post_tech_articles
+    created_date: "2018-07-26"
+    score: "3488"
+  - reddit_id: "91"
+    title: We are data scientists at IBM. Ask us anything about machine learning and
+      AI!
+    url: https://www.reddit.com/r/IAmA/comments/91tirb/we_are_data_scientists_at_ibm_ask_us_anything/
+    author: IBMAnalytics
+    created_date: "2018-07-25"
+    score: "70"
+  - reddit_id: "91"
+    title: 'Here we are: Windows 10 now uses machine learning to stop updates installing
+      when a PC is in use.'
+    url: https://www.theverge.com/platform/amp/2018/7/25/17614842/microsoft-windows-10-updates-reboot-pc-machine-learning-feature
+    author: somu1795
+    created_date: "2018-07-25"
+    score: "136"
+  - reddit_id: "8"
+    title: MAT/ACT courses recommendation for Machine learning?
+    url: https://www.reddit.com/r/UofT/comments/8xrxmo/matact_courses_recommendation_for_machine_learning/
+    author: PokoChicoPa
+    created_date: "2018-07-10"
+    score: "4"
+  - reddit_id: "8"
+    title: "Apple's new AI chief now oversees Siri, Core ML, and machine learning
+      teams"
+    url: https://www.theverge.com/2018/7/10/17555652/apple-siri-ai-john-giannandrea-machine-learning-core-ml-teams
+    author: MalevolentPotato
+    created_date: "2018-07-10"
+    score: "1901"
+  - reddit_id: "8"
+    title: Machine Learning is the future.
+    url: https://i.redd.it/8mo44ffblk811.jpg
+    author: cadeyoung
+    created_date: "2018-07-07"
+    score: "13576"
+  - reddit_id: "8"
+    title: Adobe is using machine learning to make it easier to spot Photoshopped
+      images
+    url: https://www.theverge.com/2018/6/22/17487764/adobe-photoshopped-fakes-edit-spotted-using-machine-learning-ai
+    author: izumi3682
+    created_date: "2018-06-22"
+    score: "3383"
+  - reddit_id: "8"
+    title: New map made with a machine learning algorithm - Botnik Studios
+    url: https://i.redd.it/5hck6hgbh7511.jpg
+    author: TrapWolf
+    created_date: "2018-06-20"
+    score: "22272"
+  - reddit_id: "8"
+    title: Build complete! 1440p 144hz gaming and machine learning build
+    url: https://www.reddit.com/r/buildapc/comments/8ppm1r/build_complete_1440p_144hz_gaming_and_machine/
+    author: Midren
+    created_date: "2018-06-09"
+    score: "17"
+  - reddit_id: "8"
+    title: Why thousands of AI researchers are boycotting the new Nature journal -
+      Academics share machine-learning research freely. Taxpayers should not have
+      to pay twice to read our findings
+    url: https://www.theguardian.com/science/blog/2018/may/29/why-thousands-of-ai-researchers-are-boycotting-the-new-nature-journal
+    author: mvea
+    created_date: "2018-05-29"
+    score: "38366"
+  - reddit_id: "8"
+    title: '[D] Machine learning deployed in health care and the life science industry.'
+    url: https://www.reddit.com/r/MachineLearning/comments/8mqh2r/d_machine_learning_deployed_in_health_care_and/
+    author: nianolca
+    created_date: "2018-05-28"
+    score: "80"
+  - reddit_id: "81"
+    title: Google is offering a machine learning course.
+    url: https://www.reddit.com/r/learnprogramming/comments/81qz71/google_is_offering_a_machine_learning_course/
+    author: consistent_escape
+    created_date: "2018-03-03"
+    score: "1542"
+  - reddit_id: "7"
+    title: 'Introducing Swain Bot: A machine learning tool I developed to help myself
+      get better at drafting like the pros!'
+    url: https://www.reddit.com/r/leagueoflegends/comments/7vffkm/introducing_swain_bot_a_machine_learning_tool_i/
+    author: DLot
+    created_date: "2018-02-05"
+    score: "413"
+  - reddit_id: "7"
+    title: A machine learning algorithm walked into a bar.
+    url: https://i.redd.it/wosfjh4e79601.jpg
+    author: sachintripathi007
+    created_date: "2017-12-26"
+    score: "30701"
+  - reddit_id: "79"
+    title: Staying in CS to take machine learning courses only
+    url: https://www.reddit.com/r/uwaterloo/comments/79iwxj/staying_in_cs_to_take_machine_learning_courses/
+    author: Kabnoory
+    created_date: "2017-10-29"
+    score: "8"
+  - reddit_id: "56"
+    title: "CIA Can Predict Social Uprisings 3-5 Days in Advance thanks to powerful
+      super computers dubbed Siren Servers by the father of Virtual Reality, Jaron
+      Lanier. The agency has beefed-up its \u201Canticipatory intelligence\u201D through
+      the use of deep learning and machine learning servers."
+    url: http://sociable.co/technology/cia-siren-servers-social-uprisings/
+    author: mvea
+    created_date: "2016-10-08"
+    score: "5450"
+  latest_hacker_news_searches:
+  - hacker_news_id: "17707292"
+    title: "Facebook Field Guide to Machine Learning \u2013 video series"
+    url: https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series
+    created_at: "2018-08-07"
+    points: "552"
+  - hacker_news_id: "17664084"
+    title: Learning Math for Machine Learning
+    url: https://blog.ycombinator.com/learning-math-for-machine-learning/
+    created_at: "2018-08-01"
+    points: "695"
+  - hacker_news_id: "17595611"
+    title: Machine Learning Guides
+    url: https://developers.google.com/machine-learning/guides/
+    created_at: "2018-07-23"
+    points: "708"
+  - hacker_news_id: "17341128"
+    title: Machine Learning The High Interest Credit Card of Technical Debt (2014)
+    url: https://ai.google/research/pubs/pub43146
+    created_at: "2018-06-18"
+    points: "576"
+  - hacker_news_id: "16493489"
+    title: Machine Learning Crash Course
+    url: https://developers.google.com/machine-learning/crash-course/
+    created_at: "2018-03-01"
+    points: "1926"
+  - hacker_news_id: "15919115"
+    title: Machine Learning 101 slidedeck 2 years of headbanging, so you don't have
+      to
+    url: https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/preview?imm_mid=0f9b7e&cmp=em-data-na-na-newsltr_20171213&slide=id.g183f28bdc3_0_90
+    created_at: "2017-12-13"
+    points: "1656"
+  - hacker_news_id: "15447706"
+    title: "Spotify's Discover Weekly How machine learning finds new music"
+    url: https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe
+    created_at: "2017-10-10"
+    points: "551"
+  - hacker_news_id: "14788354"
+    title: Machine Learning Crash Course The Bias-Variance Dilemma
+    url: https://ml.berkeley.edu/blog/2017/07/13/tutorial-4/
+    created_at: "2017-07-17"
+    points: "540"
+  - hacker_news_id: "14639295"
+    title: "The Best Machine Learning, NLP, and Python Tutorials I've Found"
+    url: https://unsupervisedmethods.com/over-150-of-the-best-machine-learning-nlp-and-python-tutorials-ive-found-ffce2939bd78#hn
+    created_at: "2017-06-26"
+    points: "523"
+  - hacker_news_id: "14469645"
+    title: Visualize data instantly with machine learning in Google Sheets
+    url: https://www.blog.google/products/g-suite/visualize-data-instantly-machine-learning-google-sheets/
+    created_at: "2017-06-02"
+    points: "508"
+  - hacker_news_id: "14356377"
+    title: Machine Learning
+    url: https://xkcd.com/1838/
+    created_at: "2017-05-17"
+    points: "546"
+  - hacker_news_id: "14055655"
+    title: Machine learning without centralized training data
+    url: https://research.googleblog.com/2017/04/federated-learning-collaborative.html
+    created_at: "2017-04-06"
+    points: "568"
+  - hacker_news_id: "13915808"
+    title: Distill a modern machine learning journal
+    url: http://distill.pub/about/
+    created_at: "2017-03-20"
+    points: "930"
+  - hacker_news_id: "13732288"
+    title: Machine Learning from scratch Bare bones implementations in Python
+    url: https://github.com/eriklindernoren/ML-From-Scratch
+    created_at: "2017-02-25"
+    points: "694"
+  - hacker_news_id: "12924020"
+    title: Introduction to Machine Learning for Developers
+    url: http://blog.algorithmia.com/introduction-machine-learning-developers/
+    created_at: "2016-11-10"
+    points: "547"
+  - hacker_news_id: "12713056"
+    title: Ask HN How to get started with machine learning?
+    url: ""
+    created_at: "2016-10-15"
+    points: "950"
+  - hacker_news_id: "12279415"
+    title: Machine Learning and Ketosis
+    url: https://github.com/arielf/weight-loss
+    created_at: "2016-08-12"
+    points: "706"
+  - hacker_news_id: "12279494"
+    title: Machine Learning Exercises in Python, Part 1
+    url: http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/
+    created_at: "2016-08-12"
+    points: "520"
+  - hacker_news_id: "11724763"
+    title: Google supercharges machine learning tasks with TPU custom chip
+    url: https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html
+    created_at: "2016-05-18"
+    points: "823"
+  - hacker_news_id: "4748624"
+    title: How I made $500k with machine learning and high frequency trading
+    url: http://jspauld.com/post/35126549635/how-i-made-500k-with-machine-learning-and-hft
+    created_at: "2012-11-06"
+    points: "535"
+- tag: Real Time API
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "50981644"
+    title: Real Time API backend and frontend
+    url: https://stackoverflow.com/questions/50981644/real-time-api-backend-and-frontend
+    owner_display_name: Ext-
+    owner_reputation: "24"
+    owner_link: https://stackoverflow.com/users/9788811/ext
+    creation_date: "2018-06-21"
+    view_count: "74"
+  - question_id: "49606528"
+    title: How older is the Google Real Time Data when fetching from Google Analytics
+      Real Time API v3?
+    url: https://stackoverflow.com/questions/49606528/how-older-is-the-google-real-time-data-when-fetching-from-google-analytics-real
+    owner_display_name: charlie
+    owner_reputation: "106"
+    owner_link: https://stackoverflow.com/users/3728258/charlie
+    creation_date: "2018-04-01"
+    view_count: "47"
+  - question_id: "49135713"
+    title: Cannot unsubscribe room messages in Rocket.Chat real time API
+    url: https://stackoverflow.com/questions/49135713/cannot-unsubscribe-room-messages-in-rocket-chat-real-time-api
+    owner_display_name: Marc Bouvier
+    owner_reputation: "509"
+    owner_link: https://stackoverflow.com/users/444769/marc-bouvier
+    creation_date: "2018-03-06"
+    view_count: "122"
+  - question_id: "47589545"
+    title: Is there any Google Drive powered alternative to real time API?
+    url: https://stackoverflow.com/questions/47589545/is-there-any-google-drive-powered-alternative-to-real-time-api
+    owner_display_name: Jaroslav Benc
+    owner_reputation: "127"
+    owner_link: https://stackoverflow.com/users/1602257/jaroslav-benc
+    creation_date: "2017-12-01"
+    view_count: "258"
+  - question_id: "47289666"
+    title: Google Real-Time API How to download real time file larger than 10MB?
+    url: https://stackoverflow.com/questions/47289666/google-real-time-api-how-to-download-real-time-file-larger-than-10mb
+    owner_display_name: user2196351
+    owner_reputation: "121"
+    owner_link: https://stackoverflow.com/users/2196351/user2196351
+    creation_date: "2017-11-14"
+    view_count: "65"
+  - question_id: "45299125"
+    title: google analytics real-time API per second page views
+    url: https://stackoverflow.com/questions/45299125/google-analytics-real-time-api-per-second-page-views
+    owner_display_name: MarkNS
+    owner_reputation: "1846"
+    owner_link: https://stackoverflow.com/users/57215/markns
+    creation_date: "2017-07-25"
+    view_count: "204"
+  - question_id: "42624943"
+    title: Facebook - Get unpublished and hidden posts with Real-Time API
+    url: https://stackoverflow.com/questions/42624943/facebook-get-unpublished-and-hidden-posts-with-real-time-api
+    owner_display_name: John
+    owner_reputation: "184"
+    owner_link: https://stackoverflow.com/users/1416001/john
+    creation_date: "2017-03-06"
+    view_count: "800"
+  - question_id: "42136235"
+    title: How to retreive session data from Google Analytics Real-time API?
+    url: https://stackoverflow.com/questions/42136235/how-to-retreive-session-data-from-google-analytics-real-time-api
+    owner_display_name: James
+    owner_reputation: "10"
+    owner_link: https://stackoverflow.com/users/3657584/james
+    creation_date: "2017-02-09"
+    view_count: "410"
+  - question_id: "40127665"
+    title: Real Time API using JSON
+    url: https://stackoverflow.com/questions/40127665/real-time-api-using-json
+    owner_display_name: Baz
+    owner_reputation: "1393"
+    owner_link: https://stackoverflow.com/users/607846/baz
+    creation_date: "2016-10-19"
+    view_count: "56"
+  - question_id: "39909562"
+    title: Requesting access to Real-time API beta not owner of project
+    url: https://stackoverflow.com/questions/39909562/requesting-access-to-real-time-api-beta-not-owner-of-project
+    owner_display_name: 90abyss
+    owner_reputation: "1764"
+    owner_link: https://stackoverflow.com/users/3188761/90abyss
+    creation_date: "2016-10-06"
+    view_count: "40"
+  - question_id: "33655189"
+    title: Instagram Real Time API in erlang/ chicagoboss
+    url: https://stackoverflow.com/questions/33655189/instagram-real-time-api-in-erlang-chicagoboss
+    owner_display_name: Capa
+    owner_reputation: "35"
+    owner_link: https://stackoverflow.com/users/4424697/capa
+    creation_date: "2015-11-11"
+    view_count: "131"
+  - question_id: "33420683"
+    title: Private IP Solution for facebook Real-Time API
+    url: https://stackoverflow.com/questions/33420683/private-ip-solution-for-facebook-real-time-api
+    owner_display_name: Hank Hwang
+    owner_reputation: "12"
+    owner_link: https://stackoverflow.com/users/5373062/hank-hwang
+    creation_date: "2015-10-29"
+    view_count: "99"
+  - question_id: "32180427"
+    title: Instagram Real-time API can&#39;t see my server
+    url: https://stackoverflow.com/questions/32180427/instagram-real-time-api-cant-see-my-server
+    owner_display_name: Garet
+    owner_reputation: "105"
+    owner_link: https://stackoverflow.com/users/3501059/garet
+    creation_date: "2015-08-24"
+    view_count: "235"
+  - question_id: "31725693"
+    title: Database schema advice for real time API calls
+    url: https://stackoverflow.com/questions/31725693/database-schema-advice-for-real-time-api-calls
+    owner_display_name: denikov
+    owner_reputation: "468"
+    owner_link: https://stackoverflow.com/users/1246916/denikov
+    creation_date: "2015-07-30"
+    view_count: "134"
+  - question_id: "30828468"
+    title: Yii and Instagram Real time api subscription
+    url: https://stackoverflow.com/questions/30828468/yii-and-instagram-real-time-api-subscription
+    owner_display_name: nilsburg
+    owner_reputation: "889"
+    owner_link: https://stackoverflow.com/users/2546591/nilsburg
+    creation_date: "2015-06-14"
+    view_count: "93"
+  - question_id: "30624645"
+    title: Instagram real time api - manage to get only last uploaded images
+    url: https://stackoverflow.com/questions/30624645/instagram-real-time-api-manage-to-get-only-last-uploaded-images
+    owner_display_name: Dejan Milosevic
+    owner_reputation: "63"
+    owner_link: https://stackoverflow.com/users/1211976/dejan-milosevic
+    creation_date: "2015-06-03"
+    view_count: "195"
+  - question_id: "30278225"
+    title: Which configuration for a real time API in a production environment?
+    url: https://stackoverflow.com/questions/30278225/which-configuration-for-a-real-time-api-in-a-production-environment
+    owner_display_name: Matthieu DELMAIRE
+    owner_reputation: "70"
+    owner_link: https://stackoverflow.com/users/4397538/matthieu-delmaire
+    creation_date: "2015-05-16"
+    view_count: "114"
+  - question_id: "30053760"
+    title: Integrating Facebook Real time API with Parse.com
+    url: https://stackoverflow.com/questions/30053760/integrating-facebook-real-time-api-with-parse-com
+    owner_display_name: iitum studant
+    owner_reputation: "472"
+    owner_link: https://stackoverflow.com/users/4181607/iitum-studant
+    creation_date: "2015-05-05"
+    view_count: "84"
+  - question_id: "29609681"
+    title: Instagram Real Time API OAuth limit exceeded
+    url: https://stackoverflow.com/questions/29609681/instagram-real-time-api-oauth-limit-exceeded
+    owner_display_name: Link
+    owner_reputation: "41"
+    owner_link: https://stackoverflow.com/users/2159382/link
+    creation_date: "2015-04-13"
+    view_count: "591"
+  - question_id: "29419926"
+    title: why is Instagram real-time API POSTing 2x for each tag subscription event?
+    url: https://stackoverflow.com/questions/29419926/why-is-instagram-real-time-api-posting-2x-for-each-tag-subscription-event
+    owner_display_name: gallygator
+    owner_reputation: "119"
+    owner_link: https://stackoverflow.com/users/3097472/gallygator
+    creation_date: "2015-04-02"
+    view_count: "62"
+  - question_id: "28772759"
+    title: How To Use Facebook Real Time API To Get The Number Of Likes On My Page?
+    url: https://stackoverflow.com/questions/28772759/how-to-use-facebook-real-time-api-to-get-the-number-of-likes-on-my-page
+    owner_display_name: Francesco Guarnaccia
+    owner_reputation: "9"
+    owner_link: https://stackoverflow.com/users/4615830/francesco-guarnaccia
+    creation_date: "2015-02-27"
+    view_count: "84"
+  - question_id: "28001411"
+    title: Instagram Real-time API duplicate requests
+    url: https://stackoverflow.com/questions/28001411/instagram-real-time-api-duplicate-requests
+    owner_display_name: Scotty9er
+    owner_reputation: "25"
+    owner_link: https://stackoverflow.com/users/3543345/scotty9er
+    creation_date: "2015-01-17"
+    view_count: "365"
+  - question_id: "27980609"
+    title: Instagram real-time API gets very few updates
+    url: https://stackoverflow.com/questions/27980609/instagram-real-time-api-gets-very-few-updates
+    owner_display_name: Philipp Flenker
+    owner_reputation: "1384"
+    owner_link: https://stackoverflow.com/users/592744/philipp-flenker
+    creation_date: "2015-01-16"
+    view_count: "2892"
+  - question_id: "27461132"
+    title: Instagram real-time API limit of subscriptions
+    url: https://stackoverflow.com/questions/27461132/instagram-real-time-api-limit-of-subscriptions
+    owner_display_name: Mindhavok
+    owner_reputation: "270"
+    owner_link: https://stackoverflow.com/users/1095988/mindhavok
+    creation_date: "2014-12-13"
+    view_count: "438"
+  - question_id: "27407330"
+    title: Instagram real time API - getting empty data and no POST request in reply
+    url: https://stackoverflow.com/questions/27407330/instagram-real-time-api-getting-empty-data-and-no-post-request-in-reply
+    owner_display_name: Nativ
+    owner_reputation: "1751"
+    owner_link: https://stackoverflow.com/users/1494133/nativ
+    creation_date: "2014-12-10"
+    view_count: "652"
+  latest_reddit_searches:
+  - reddit_id: "8"
+    title: Looks like the Brampton Transit real time api is finally up and running!
+    url: https://imgur.com/VldMkBD
+    author: Ch4rd
+    created_date: "2018-06-13"
+    score: "32"
+  - reddit_id: "8"
+    title: How does a real time API work?
+    url: https://www.reddit.com/r/learnprogramming/comments/8nhjqt/how_does_a_real_time_api_work/
+    author: Clonmany
+    created_date: "2018-05-31"
+    score: "2"
+  - reddit_id: "800"
+    title: http://alpha.eventum.network/?ref=Sm0LOu4P decentralized platform where
+      the truth is sourced from the crowd and then automatically turned into a real-time
+      API. airdrop 1. Register 2. Provide details including your ETH address 3. bounty
+      in your dasboard to collect points.
+    url: http://alpha.eventum.network/?ref=Sm0LOu4P
+    author: slimane9090
+    created_date: "2018-02-24"
+    score: "1"
+  - reddit_id: "7"
+    title: Real-time API?
+    url: https://www.reddit.com/r/BinanceExchange/comments/7v7xxp/realtime_api/
+    author: MillardFillmore
+    created_date: "2018-02-04"
+    score: "1"
+  - reddit_id: "749"
+    title: Using Python for real time scalable application
+    url: https://www.reddit.com/r/Python/comments/749jrw/using_python_for_real_time_scalable_application/
+    author: SgtSeixas
+    created_date: "2017-10-04"
+    score: "1"
+  - reddit_id: "6"
+    title: I created this real-time API platform, would love your feedback!
+    url: https://www.rapid.io/
+    author: VentureDrop
+    created_date: "2017-09-12"
+    score: "2"
+  - reddit_id: "6"
+    title: 'Real Time APIs: Finance, Machine Learning, Etc.'
+    url: https://www.reddit.com/r/iotml/comments/6viqte/real_time_apis_finance_machine_learning_etc/
+    author: onegazillion
+    created_date: "2017-08-23"
+    score: "2"
+  - reddit_id: "5"
+    title: NFL Real Time API
+    url: https://www.reddit.com/r/nfl/comments/5mmmjk/nfl_real_time_api/
+    author: zdavis28
+    created_date: "2017-01-07"
+    score: "0"
+  - reddit_id: "534"
+    title: Any interest in a real-time API for esports matches?
+    url: https://www.reddit.com/r/esports/comments/534sgk/any_interest_in_a_realtime_api_for_esports_matches/
+    author: Mr_Spiderman
+    created_date: "2016-09-17"
+    score: "2"
+  - reddit_id: "4"
+    title: '[Tech] Medium acquires Superfeedr, a real-time API that supercharges your
+      feeds'
+    url: http://techcrunch.com/2016/06/02/super-to-medium/?ncid=rss
+    author: newsbeard
+    created_date: "2016-06-02"
+    score: "1"
+  - reddit_id: "4"
+    title: ExileTrade Auto | Search Automation | Rudimentary Client for ExileTools
+      Real Time API
+    url: http://exiletra.de/auto/
+    author: ProFalseIdol
+    created_date: "2016-05-31"
+    score: "28"
+  - reddit_id: "4"
+    title: ExileTrade Auto | Search Automation | Rudimentary Client for ExileTools
+      Real Time API (x-post)
+    url: https://www.reddit.com/r/pathofexile/comments/4lt7c3/exiletrade_auto_search_automation_rudimentary/
+    author: ProFalseIdol
+    created_date: "2016-05-31"
+    score: "3"
+  - reddit_id: "3"
+    title: How the Ancient Egyptians harnessed a real-time API to build a powerful
+      information interface
+    url: https://medium.com/@mtvaccaro/conceptualization-through-visualization-cde98a15c04b#.j8wr3mmgl
+    author: vaccster
+    created_date: "2015-12-11"
+    score: "5"
+  - reddit_id: "3"
+    title: 5 Reasons you should have a Real-Time API
+    url: https://blog.pusher.com/5-reasons-you-should-have-a-real-time-api/?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=realtime_api
+    author: phobos7
+    created_date: "2015-11-10"
+    score: "2"
+  - reddit_id: "3"
+    title: From Mongoose Models to a Real-time API with FeathersJS
+    url: https://medium.com/all-about-feathersjs/from-mongoose-models-to-a-real-time-api-with-feathersjs-ec1cc3fb0a5c
+    author: dluecke
+    created_date: "2015-09-02"
+    score: "9"
+  - reddit_id: "334"
+    title: I need help with Instagram real time api - php curl
+    url: https://www.reddit.com/r/webdev/comments/334tvu/i_need_help_with_instagram_real_time_api_php_curl/
+    author: mdn023
+    created_date: "2015-04-19"
+    score: "0"
+  - reddit_id: "2"
+    title: Creating a Real-Time API with Fanout.io using Laravel
+    url: http://blog.garethtdavies.com/post/109448647777/creating-a-real-time-api-with-fanout-io-using
+    author: NotMacYuuk
+    created_date: "2015-01-30"
+    score: "9"
+  - reddit_id: "2"
+    title: How can I get the rt:minutesAgo filter to work in my Google Analytics Real
+      Time API call?
+    url: https://www.reddit.com/r/learnprogramming/comments/2pmez3/how_can_i_get_the_rtminutesago_filter_to_work_in/
+    author: tc0843
+    created_date: "2014-12-17"
+    score: "1"
+  - reddit_id: "2"
+    title: Real-time APIs
+    url: http://www.slideshare.net/rossmason/realtime-apis
+    author: hectavex
+    created_date: "2014-08-04"
+    score: "2"
+  - reddit_id: "1"
+    title: Rome transport authority (ATAC) publishes real time API. Backend developed
+      in django.
+    url: http://dev.muovi.roma.it/muoversi-a-roma/overview
+    author: guglielmocelata
+    created_date: "2014-02-05"
+    score: "5"
+  - reddit_id: "1"
+    title: '[opportunity] Google Launches Real-Time API For Analytics In Invite-Only
+      Beta'
+    url: http://techcrunch.com/2013/08/01/google-launches-real-time-api-for-analytics-in-invite-only-beta/
+    author: bellafelis
+    created_date: "2013-08-01"
+    score: "2"
+  - reddit_id: "0"
+    title: '[SMT] A website that monitors twitter and real time APIs for mentions
+      of Earthquake and attempts to map the epicenter'
+    url: https://www.reddit.com/r/SomebodyMakeThis/comments/cic3s/smt_a_website_that_monitors_twitter_and_real_time/
+    author: Forbizzle
+    created_date: "2010-06-24"
+    score: "5"
+  latest_hacker_news_searches:
+  - hacker_news_id: "16797124"
+    title: Building Real Time Analytics APIs at Scale
+    url: https://blog.algolia.com/building-real-time-analytics-apis/
+    created_at: "2018-04-09"
+    points: "83"
+  - hacker_news_id: "16159874"
+    title: Prisma Turn your database into a real time GraphQL API
+    url: https://www.prismagraphql.com/
+    created_at: "2018-01-16"
+    points: "10"
+  - hacker_news_id: "15157708"
+    title: An Intro to Realtime APIs Using Pushpin
+    url: https://thetechladder.com/story/intro-realtime-apis-using-pushpin/
+    created_at: "2017-09-02"
+    points: "9"
+  - hacker_news_id: "13998881"
+    title: Building Realtime APIs in Rust
+    url: https://lord.io/blog/2017/backtalk/
+    created_at: "2017-03-30"
+    points: "71"
+  - hacker_news_id: "12509160"
+    title: "Announcing Stride \u2013 A Realtime Analytics API"
+    url: https://www.pipelinedb.com/blog/announcing-stride-a-realtime-analytics-api
+    created_at: "2016-09-15"
+    points: "8"
+  - hacker_news_id: "9887036"
+    title: Realtime API Management with Pushpin and Kong
+    url: http://blog.fanout.io/2015/07/14/realtime-api-management-pushpin-kong/
+    created_at: "2015-07-14"
+    points: "8"
+  - hacker_news_id: "9578187"
+    title: Building a realtime API with RethinkDB
+    url: http://blog.fanout.io/2015/05/20/building-a-realtime-api-with-rethinkdb/
+    created_at: "2015-05-20"
+    points: "9"
+  - hacker_news_id: "8864035"
+    title: "Show HN Appbase.io \u2013 Build realtime apps/API with search, collaboration"
+    url: http://show.appbase.io
+    created_at: "2015-01-09"
+    points: "12"
+  - hacker_news_id: "7701585"
+    title: Facebook's Realtime Updates API has been down for 12 days
+    url: https://developers.facebook.com/bugs/738043236218053/
+    created_at: "2014-05-05"
+    points: "84"
+  - hacker_news_id: "6146094"
+    title: Google Analytics Launches Real Time API In Beta
+    url: http://analytics.blogspot.com.es/2013/08/google-analytics-launches-real-time-api.html
+    created_at: "2013-08-02"
+    points: "6"
+  - hacker_news_id: "6144252"
+    title: Google launches real time Analytics API
+    url: http://techcrunch.com/2013/08/01/google-launches-real-time-api-for-analytics-in-invite-only-beta/
+    created_at: "2013-08-01"
+    points: "7"
+  - hacker_news_id: "6143694"
+    title: Google analytics launches real time api
+    url: http://analytics.blogspot.com/2013/08/google-analytics-launches-real-time-api.html
+    created_at: "2013-08-01"
+    points: "6"
+  - hacker_news_id: "5403021"
+    title: Google Drive Realtime API
+    url: https://developers.google.com/drive/realtime/
+    created_at: "2013-03-19"
+    points: "130"
+  - hacker_news_id: "5401700"
+    title: Build collaborative apps with Google Drive Realtime API
+    url: http://googledevelopers.blogspot.com/2013/03/build-collaborative-apps-with-google.html
+    created_at: "2013-03-19"
+    points: "52"
+  - hacker_news_id: "5327489"
+    title: The Argument for Real-Time REST APIs
+    url: http://blog.programmableweb.com/2013/03/05/the-argument-for-real-time-rest-apis/
+    created_at: "2013-03-05"
+    points: "9"
+  - hacker_news_id: "3178007"
+    title: We have a real-time API and we're not afraid to use it. Are you?
+    url: http://ducksboard.com/hackathon/
+    created_at: "2011-10-31"
+    points: "79"
+  - hacker_news_id: "2259824"
+    title: A Real-Time API for Next-Generation Apps
+    url: http://instagr.am/blog/42/realtime-api
+    created_at: "2011-02-24"
+    points: "51"
+  - hacker_news_id: "2197989"
+    title: A real time API for Congress
+    url: http://sunlightlabs.com/blog/2011/the-real-time-congress-api/
+    created_at: "2011-02-09"
+    points: "25"
+  - hacker_news_id: "776335"
+    title: Twitter to add real-time location API
+    url: http://www.businessinsider.com/twitter-to-add-real-time-location-feature-2009-8
+    created_at: "2009-08-20"
+    points: "13"
+- tag: Real Time Data
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "51943037"
+    title: Factorize real time data with consistent mappings to training data?
+    url: https://stackoverflow.com/questions/51943037/factorize-real-time-data-with-consistent-mappings-to-training-data
+    owner_display_name: Leigh Tsai
+    owner_reputation: "106"
+    owner_link: https://stackoverflow.com/users/5459079/leigh-tsai
+    creation_date: "2018-08-20"
+    view_count: "55"
+  - question_id: "51925329"
+    title: PostgreSQL and Asp.Net MVC 5 How to show real time data with efficient
+      way to multiple user&#39;s with less limitations?
+    url: https://stackoverflow.com/questions/51925329/postgresql-and-asp-net-mvc-5-how-to-show-real-time-data-with-efficient-way-to-m
+    owner_display_name: Hafiz Asad
+    owner_reputation: "780"
+    owner_link: https://stackoverflow.com/users/4800629/hafiz-asad
+    creation_date: "2018-08-19"
+    view_count: "18"
+  - question_id: "51914510"
+    title: R shiny refreshing &quot;Rangeslider&quot; and &quot;rangeselector&quot;
+      of Plotly, while updating the &quot;real time data&quot;
+    url: https://stackoverflow.com/questions/51914510/r-shiny-refreshing-rangeslider-and-rangeselector-of-plotly-while-updating-t
+    owner_display_name: Avijit Mallick
+    owner_reputation: "15"
+    owner_link: https://stackoverflow.com/users/9063517/avijit-mallick
+    creation_date: "2018-08-18"
+    view_count: "23"
+  - question_id: "51756314"
+    title: Find top k frequent words in real time data stream
+    url: https://stackoverflow.com/questions/51756314/find-top-k-frequent-words-in-real-time-data-stream
+    owner_display_name: Chen Lin
+    owner_reputation: "58"
+    owner_link: https://stackoverflow.com/users/9306688/chen-lin
+    creation_date: "2018-08-08"
+    view_count: "71"
+  - question_id: "51709906"
+    title: Real time data streaming in angular Ui through Python halts after sometime
+    url: https://stackoverflow.com/questions/51709906/real-time-data-streaming-in-angular-ui-through-python-halts-after-sometime
+    owner_display_name: Hari Shankar
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10187127/hari-shankar
+    creation_date: "2018-08-06"
+    view_count: "11"
+  - question_id: "51636427"
+    title: Real-time data transfer via ODBC from MS Access to MYSQL
+    url: https://stackoverflow.com/questions/51636427/real-time-data-transfer-via-odbc-from-ms-access-to-mysql
+    owner_display_name: alicesmith
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/5242204/alicesmith
+    creation_date: "2018-08-01"
+    view_count: "36"
+  - question_id: "51584034"
+    title: automatic, continues and real time data sending between two linux
+    url: https://stackoverflow.com/questions/51584034/automatic-continues-and-real-time-data-sending-between-two-linux
+    owner_display_name: sina maleki
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10152379/sina-maleki
+    creation_date: "2018-07-29"
+    view_count: "13"
+  - question_id: "51560874"
+    title: Real time data pipe lines to NoSql dbs in hadoop
+    url: https://stackoverflow.com/questions/51560874/real-time-data-pipe-lines-to-nosql-dbs-in-hadoop
+    owner_display_name: BARATH
+    owner_reputation: "40"
+    owner_link: https://stackoverflow.com/users/9735364/barath
+    creation_date: "2018-07-27"
+    view_count: "64"
+  - question_id: "51557468"
+    title: In Flutter save firebase real time data in local storage json and populate
+      list view from json
+    url: https://stackoverflow.com/questions/51557468/in-flutter-save-firebase-real-time-data-in-local-storage-json-and-populate-list
+    owner_display_name: Kathirva
+    owner_reputation: "43"
+    owner_link: https://stackoverflow.com/users/7695684/kathirva
+    creation_date: "2018-07-27"
+    view_count: "38"
+  - question_id: "51562164"
+    title: Real-time data acquisition from serial port with node.js
+    url: https://stackoverflow.com/questions/51562164/real-time-data-acquisition-from-serial-port-with-node-js
+    owner_display_name: ahmedkhabkhab
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/10143339/ahmedkhabkhab
+    creation_date: "2018-07-27"
+    view_count: "34"
+  - question_id: "51555112"
+    title: Send real time data from Android to Server
+    url: https://stackoverflow.com/questions/51555112/send-real-time-data-from-android-to-server
+    owner_display_name: bircastri
+    owner_reputation: "1284"
+    owner_link: https://stackoverflow.com/users/2405663/bircastri
+    creation_date: "2018-07-27"
+    view_count: "29"
+  - question_id: "51537543"
+    title: Jquery Datatables does not accept valid JSON data  SignalR MVC - Real time
+      data
+    url: https://stackoverflow.com/questions/51537543/jquery-datatables-does-not-accept-valid-json-data-signalr-mvc-real-time-data
+    owner_display_name: Dinesh
+    owner_reputation: "8"
+    owner_link: https://stackoverflow.com/users/10138215/dinesh
+    creation_date: "2018-07-26"
+    view_count: "42"
+  - question_id: "51506588"
+    title: What is the best way to send real-time data between apps without latency
+    url: https://stackoverflow.com/questions/51506588/what-is-the-best-way-to-send-real-time-data-between-apps-without-latency
+    owner_display_name: Arun Yogannadan
+    owner_reputation: "49"
+    owner_link: https://stackoverflow.com/users/2195684/arun-yogannadan
+    creation_date: "2018-07-24"
+    view_count: "61"
+  - question_id: "51463911"
+    title: handling real time data in python , rolling window
+    url: https://stackoverflow.com/questions/51463911/handling-real-time-data-in-python-rolling-window
+    owner_display_name: mj&#39;00
+    owner_reputation: "10"
+    owner_link: https://stackoverflow.com/users/9657301/mj00
+    creation_date: "2018-07-22"
+    view_count: "89"
+  - question_id: "51245770"
+    title: getting real time data from SOAP web service to client, C#
+    url: https://stackoverflow.com/questions/51245770/getting-real-time-data-from-soap-web-service-to-client-c
+    owner_display_name: Christian Elias
+    owner_reputation: "28"
+    owner_link: https://stackoverflow.com/users/8613743/christian-elias
+    creation_date: "2018-07-09"
+    view_count: "34"
+  - question_id: "51136407"
+    title: Averaging real time data in Loop
+    url: https://stackoverflow.com/questions/51136407/averaging-real-time-data-in-loop
+    owner_display_name: Nolan Mcneil
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/10020590/nolan-mcneil
+    creation_date: "2018-07-02"
+    view_count: "37"
+  - question_id: "51124531"
+    title: Spring boot Polling Other service to get real time data
+    url: https://stackoverflow.com/questions/51124531/spring-boot-polling-other-service-to-get-real-time-data
+    owner_display_name: DILSHOB KK
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/5902081/dilshob-kk
+    creation_date: "2018-07-01"
+    view_count: "84"
+  - question_id: "51078798"
+    title: Pause horizontal scrolling in chart.js for real time data
+    url: https://stackoverflow.com/questions/51078798/pause-horizontal-scrolling-in-chart-js-for-real-time-data
+    owner_display_name: U rock
+    owner_reputation: "147"
+    owner_link: https://stackoverflow.com/users/7491968/u-rock
+    creation_date: "2018-06-28"
+    view_count: "85"
+  - question_id: "51060980"
+    title: how to show real-time data using node.js, socket.io and mysql?
+    url: https://stackoverflow.com/questions/51060980/how-to-show-real-time-data-using-node-js-socket-io-and-mysql
+    owner_display_name: Harmeet Singh
+    owner_reputation: "23"
+    owner_link: https://stackoverflow.com/users/6635179/harmeet-singh
+    creation_date: "2018-06-27"
+    view_count: "179"
+  - question_id: "51005079"
+    title: How can I display an auto-scrolling window of real-time data on my HTML
+      page?
+    url: https://stackoverflow.com/questions/51005079/how-can-i-display-an-auto-scrolling-window-of-real-time-data-on-my-html-page
+    owner_display_name: Erik Nyquist
+    owner_reputation: "644"
+    owner_link: https://stackoverflow.com/users/2539954/erik-nyquist
+    creation_date: "2018-06-23"
+    view_count: "16"
+  - question_id: "50996436"
+    title: Angular 6  Real time data
+    url: https://stackoverflow.com/questions/50996436/angular-6-real-time-data
+    owner_display_name: user9964622
+    owner_reputation: "335"
+    owner_link: https://stackoverflow.com/users/9964622/user9964622
+    creation_date: "2018-06-22"
+    view_count: "347"
+  - question_id: "50812201"
+    title: Chart for Real time data with duplicate x axis
+    url: https://stackoverflow.com/questions/50812201/chart-for-real-time-data-with-duplicate-x-axis
+    owner_display_name: Sathesh Rgs
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9342567/sathesh-rgs
+    creation_date: "2018-06-12"
+    view_count: "31"
+  - question_id: "50807229"
+    title: i&#39;m saving real time data on an array List but when trying to display
+      them i have to refresh my page for each new value
+    url: https://stackoverflow.com/questions/50807229/im-saving-real-time-data-on-an-array-list-but-when-trying-to-display-them-i-hav
+    owner_display_name: Cyrin Hammami
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9674500/cyrin-hammami
+    creation_date: "2018-06-11"
+    view_count: "15"
+  - question_id: "50067310"
+    title: Google Analytics only show real-time data and not historic data
+    url: https://stackoverflow.com/questions/50067310/google-analytics-only-show-real-time-data-and-not-historic-data
+    owner_display_name: Rodrick
+    owner_reputation: "133"
+    owner_link: https://stackoverflow.com/users/5021320/rodrick
+    creation_date: "2018-04-27"
+    view_count: "46"
+  - question_id: "49428059"
+    title: How to do Real time data synchronization between windows forms and remote
+      server
+    url: https://stackoverflow.com/questions/49428059/how-to-do-real-time-data-synchronization-between-windows-forms-and-remote-server
+    owner_display_name: Arjun JS
+    owner_reputation: "33"
+    owner_link: https://stackoverflow.com/users/2490684/arjun-js
+    creation_date: "2018-03-22"
+    view_count: "324"
+  latest_reddit_searches:
+  - reddit_id: "9"
+    title: (Nik) Japan and US to sharpen missile defense with real-time data sharing
+    url: https://asia.nikkei.com/Politics/International-Relations/Japan-and-US-to-sharpen-missile-defense-with-real-time-data-sharing
+    author: Mukhasim
+    created_date: "2018-08-24"
+    score: "1"
+  - reddit_id: "99"
+    title: EyeGlob.Net real time data collection will allow patient and ophthalmologist
+      to manage, diagnose, supervise and treat most effectively.
+    url: https://twitter.com/eyeglobnet/status/1025664314315890688
+    author: spyhelp4ever
+    created_date: "2018-08-23"
+    score: "2"
+  - reddit_id: "98"
+    title: Transit app now improves real-time data for TTC buses, subways, and streetcars
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-toronto-51352cde600
+    author: mtlbagelboy
+    created_date: "2018-08-20"
+    score: "47"
+  - reddit_id: "98"
+    title: Transit app now improves Metro Transit's real-time data
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-the-twin-cities-b4173e53d1a2
+    author: Feminem
+    created_date: "2018-08-20"
+    score: "113"
+  - reddit_id: "98"
+    title: Transit app now improves real-time data for HSR buses
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-hamilton-23e6f5834ecd
+    author: mtlbagelboy
+    created_date: "2018-08-20"
+    score: "21"
+  - reddit_id: "98"
+    title: Transit app now improves real-time data for MetroBus and MetroLink
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-st-louis-f2daac0ffb17
+    author: Feminem
+    created_date: "2018-08-20"
+    score: "11"
+  - reddit_id: "98"
+    title: Transit app now improves real-time data for Halifax Transit
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-halifax-42ee5817bfed
+    author: baronbendigo
+    created_date: "2018-08-20"
+    score: "14"
+  - reddit_id: "98"
+    title: Can consumers regain control of their real-time data?- Comment/Editorial
+      piece by Streamr Team member Didier Goepfert
+    url: http://www.thenextsiliconvalley.com/2018/08/19/2893-can-consumers-regain-control-from-their-real-time-data/
+    author: smmblue
+    created_date: "2018-08-20"
+    score: "9"
+  - reddit_id: "982"
+    title: http://EyeGlob.Net real time data collection will allow patient and ophthalmologist
+      to manage, diagnose, supervise and treat most effectively.
+    url: https://www.reddit.com/r/u_daosylam1990/comments/982zxp/httpeyeglobnet_real_time_data_collection_will/
+    author: daosylam1990
+    created_date: "2018-08-17"
+    score: "1"
+  - reddit_id: "97"
+    title: Transit app improves real-time data for BC Transit and TransLink
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-vancouver-d505bc6d49a3
+    author: Feminem
+    created_date: "2018-08-16"
+    score: "49"
+  - reddit_id: "97"
+    title: Transit app now improves real-time data for OC Transpo
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-ottawa-50aa96d2e1b3
+    author: mtlbagelboy
+    created_date: "2018-08-16"
+    score: "52"
+  - reddit_id: "97"
+    title: Transit app improves real-time data for PAT buses and rail
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-pittsburgh-408ecd08028
+    author: mtlais
+    created_date: "2018-08-16"
+    score: "23"
+  - reddit_id: "97"
+    title: Transit app now improves real-time data for KC Metro and Sound Transit
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-seattle-b6a76f0a7946
+    author: baronbendigo
+    created_date: "2018-08-16"
+    score: "13"
+  - reddit_id: "97"
+    title: Transit app improves real-time data for CTA buses and trains
+    url: https://medium.com/transit-app/transit-adds-crowdsourced-real-time-in-chicago-b2b6250e3a58
+    author: Feminem
+    created_date: "2018-08-15"
+    score: "151"
+  - reddit_id: "97"
+    title: Transit app now improves real-time data for SEPTA
+    url: https://medium.com/@transitapp/transit-adds-crowdsourced-real-time-in-philadelphia-4b084e8704a0
+    author: baronbendigo
+    created_date: "2018-08-15"
+    score: "33"
+  - reddit_id: "9749"
+    title: Check out this awesome APP to test out 0-100 times, real-time data.
+    url: https://i.redd.it/xuqyoa0bryf11.jpg
+    author: JayinShanghai
+    created_date: "2018-08-14"
+    score: "0"
+  - reddit_id: "979"
+    title: Reference Cosmos DB app for real-time data visualization
+    url: https://www.reddit.com/r/AZURE/comments/979cjr/reference_cosmos_db_app_for_realtime_data/
+    author: JeremyLikness
+    created_date: "2018-08-14"
+    score: "18"
+  - reddit_id: "9680"
+    title: 'DApps: Why the real-time data backbone is the missing component (from
+      Ilmari Kontulainen [Streamr-Team])'
+    url: https://jaxenter.com/dapps-real-time-data-missing-147866.html
+    author: viwe12
+    created_date: "2018-08-10"
+    score: "11"
+  - reddit_id: "94"
+    title: EyeGlob.Net real time data collection will allow patient and ophthalmologist
+      to manage, diagnose, supervise and treat most effectively.
+    url: https://i.redd.it/q03kmq3sq4e11.jpg
+    author: EYEGLOBNET
+    created_date: "2018-08-04"
+    score: "1"
+  - reddit_id: "91"
+    title: New algorithm predicts reoccurring illegal activity - A new algorithm,
+      similar to that used in weather forecasting, could give police departments the
+      upper hand in their fight against crime, thanks to its ability to quickly process
+      real-time data and predict where illegal activity could reoccur.
+    url: https://www.surrey.ac.uk/news/surrey-develops-new-crime-fighting-algorithm-could-predict-reoccurring-illegal-activity
+    author: mvea
+    created_date: "2018-07-25"
+    score: "14"
+  - reddit_id: "91"
+    title: A new algorithm could give police departments the upper hand in their fight
+      against crime, thanks to its ability to quickly process real-time data and predict
+      where illegal activity could reoccur.
+    url: https://www.sciencedirect.com/science/article/pii/S0167947318301609?via%3Dihub
+    author: DesperateTourist
+    created_date: "2018-07-24"
+    score: "10"
+  - reddit_id: "8"
+    title: 'Calling all algotraders in US stocks: what''s the minimum cost setup to
+      get into algo trading US stocks? Broker &amp; deposit, API, real-time data-feed,
+      co/location etc, must have tools?'
+    url: https://www.reddit.com/r/algotrading/comments/8je2td/calling_all_algotraders_in_us_stocks_whats_the/
+    author: AlgosForCryptos
+    created_date: "2018-05-14"
+    score: "50"
+  - reddit_id: "6"
+    title: 'GDQStatus: Real-time data visualization of the GamesDoneQuick Charity
+      Speedrunning Marathon [OC]'
+    url: http://gdqstat.us
+    author: micro_apple
+    created_date: "2017-07-02"
+    score: "10"
+  - reddit_id: "2"
+    title: "HN Analytics \u2013 Real Time Data Visualizations of Hacker News"
+    url: http://www.hnanalytics.com
+    author: spencerh414
+    created_date: "2014-10-29"
+    score: "0"
+  latest_hacker_news_searches:
+  - hacker_news_id: "16226923"
+    title: "Zstandard \u2013 Real-time data compression algorithm"
+    url: http://facebook.github.io/zstd/
+    created_at: "2018-01-24"
+    points: "286"
+  - hacker_news_id: "16199366"
+    title: Nuclio Serverless for Real-Time and Data-Driven Applications
+    url: https://nuclio.io/
+    created_at: "2018-01-21"
+    points: "71"
+  - hacker_news_id: "16108701"
+    title: "Show HN Hooks Data API \u2013 Realtime Data about Thousands of Topics
+      Over Webhooks"
+    url: https://data.hooks.co
+    created_at: "2018-01-09"
+    points: "145"
+  - hacker_news_id: "15339255"
+    title: "Show HN Fanout \u2013 Reverse proxy to push real-time data to connected
+      devices"
+    url: https://fanout.io
+    created_at: "2017-09-26"
+    points: "84"
+  - hacker_news_id: "12102636"
+    title: "Billions of Messages a Day \u2013 Yelp's Real-Time Data Pipeline"
+    url: http://engineeringblog.yelp.com/2016/07/billions-of-messages-a-day-yelps-real-time-data-pipeline.html?hn=hn
+    created_at: "2016-07-15"
+    points: "172"
+  - hacker_news_id: "12063283"
+    title: Realtime Data Processing at Facebook
+    url: http://muratbuffalo.blogspot.com/2016/07/realtime-data-processing-at-facebook.html
+    created_at: "2016-07-09"
+    points: "124"
+  - hacker_news_id: "8569930"
+    title: Confluent, a company for Apache Kafka and realtime data
+    url: https://www.linkedin.com/pulse/article/20141106180403-2945786-announcing-confluent-a-company-for-apache-kafka-and-realtime-data?trk=hp-feed-article-title
+    created_at: "2014-11-06"
+    points: "108"
+  - hacker_news_id: "8373914"
+    title: Show HN Airtable, a real-time spreadsheet-database hybrid
+    url: https://airtable.com/invite/a3sz9t7b
+    created_at: "2014-09-26"
+    points: "361"
+  - hacker_news_id: "7776997"
+    title: Major U.K. Real-Time Train Database Opens Up To More Developers
+    url: http://techcrunch.com/2014/05/20/darwin-evolves/
+    created_at: "2014-05-20"
+    points: "88"
+  - hacker_news_id: "7728860"
+    title: Streamparse Pythonic processing of real-time data streams using Apache
+      Storm
+    url: https://github.com/Parsely/streamparse
+    created_at: "2014-05-11"
+    points: "75"
+  - hacker_news_id: "7391656"
+    title: What Real-Time Gambling Data Reveals About Sports
+    url: http://www.gambletron2000.com/about
+    created_at: "2014-03-13"
+    points: "152"
+  - hacker_news_id: "7128091"
+    title: "Druid \u2013 Distributed, real-time, analytical data store"
+    url: http://druid.io/
+    created_at: "2014-01-26"
+    points: "87"
+  - hacker_news_id: "6916557"
+    title: The Log Real-time data's unifying abstraction
+    url: http://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+    created_at: "2013-12-16"
+    points: "270"
+  - hacker_news_id: "6866201"
+    title: Bamboo An open-source real-time data analysis system
+    url: http://bamboo.io/docs/index.html
+    created_at: "2013-12-07"
+    points: "84"
+  - hacker_news_id: "4693224"
+    title: Metamarkets Open Sources Druid, A Real-Time Analytics Data Store
+    url: http://metamarkets.com/2012/metamarkets-open-sources-druid/
+    created_at: "2012-10-24"
+    points: "69"
+  - hacker_news_id: "4299501"
+    title: BinaryJS, Streaming realtime binary data to your web browser
+    url: http://binaryjs.com
+    created_at: "2012-07-26"
+    points: "112"
+  - hacker_news_id: "4283348"
+    title: No, you dont need a real-time data dashboard
+    url: http://numeratechoir.com/no-you-dont-need-a-real-time-data-dashboard/
+    created_at: "2012-07-23"
+    points: "73"
+  - hacker_news_id: "4073054"
+    title: Real Time Data compression using LZ4
+    url: http://fastcompression.blogspot.fr/p/lz4.html
+    created_at: "2012-06-06"
+    points: "58"
+  - hacker_news_id: "3950622"
+    title: Show HN Simperium, a realtime data layer
+    url: http://simperium.com
+    created_at: "2012-05-09"
+    points: "206"
+  - hacker_news_id: "2370655"
+    title: The Secrets of Building Realtime Big Data Systems
+    url: http://www.slideshare.net/nathanmarz/the-secrets-of-building-realtime-big-data-systems
+    created_at: "2011-03-25"
+    points: "59"
+- tag: Streaming APIs
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "35209276"
+    title: Issues with streaming apis on spring mvc framework
+    url: https://stackoverflow.com/questions/35209276/issues-with-streaming-apis-on-spring-mvc-framework
+    owner_display_name: Sandeep Gupta
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/5884823/sandeep-gupta
+    creation_date: "2016-02-04"
+    view_count: "650"
+  - question_id: "33490191"
+    title: Access to Twitter Streaming APIs Using R using streamR &amp; ROAuth
+    url: https://stackoverflow.com/questions/33490191/access-to-twitter-streaming-apis-using-r-using-streamr-roauth
+    owner_display_name: waxattax
+    owner_reputation: "177"
+    owner_link: https://stackoverflow.com/users/4028709/waxattax
+    creation_date: "2015-11-02"
+    view_count: "444"
+  - question_id: "28572491"
+    title: Can I use TwitterKit to access Twitter&#39;s Streaming APIs?
+    url: https://stackoverflow.com/questions/28572491/can-i-use-twitterkit-to-access-twitters-streaming-apis
+    owner_display_name: William Robinson
+    owner_reputation: "598"
+    owner_link: https://stackoverflow.com/users/1639355/william-robinson
+    creation_date: "2015-02-17"
+    view_count: "150"
+  - question_id: "25931569"
+    title: What are the pros and cons of using nest rest streaming APIs over rest
+      APIs?
+    url: https://stackoverflow.com/questions/25931569/what-are-the-pros-and-cons-of-using-nest-rest-streaming-apis-over-rest-apis
+    owner_display_name: Tarun Kumar
+    owner_reputation: "1477"
+    owner_link: https://stackoverflow.com/users/1031863/tarun-kumar
+    creation_date: "2014-09-19"
+    view_count: "773"
+  - question_id: "16339805"
+    title: Saving Twitter Streaming APIs results
+    url: https://stackoverflow.com/questions/16339805/saving-twitter-streaming-apis-results
+    owner_display_name: holierthanthou84
+    owner_reputation: "192"
+    owner_link: https://stackoverflow.com/users/2118396/holierthanthou84
+    creation_date: "2013-05-02"
+    view_count: "136"
+  - question_id: "11822860"
+    title: what are the Streaming APIs
+    url: https://stackoverflow.com/questions/11822860/what-are-the-streaming-apis
+    owner_display_name: Vaibhav Mishra
+    owner_reputation: "4069"
+    owner_link: https://stackoverflow.com/users/209123/vaibhav-mishra
+    creation_date: "2012-08-05"
+    view_count: "2708"
+  - question_id: "11374771"
+    title: How to make Twitter Streaming APIs work with jsOAuth?
+    url: https://stackoverflow.com/questions/11374771/how-to-make-twitter-streaming-apis-work-with-jsoauth
+    owner_display_name: bguiz
+    owner_reputation: "12207"
+    owner_link: https://stackoverflow.com/users/194982/bguiz
+    creation_date: "2012-07-07"
+    view_count: "254"
+  - question_id: "10212741"
+    title: ColdFusion and Streaming APIs... (i.e. Twitter)
+    url: https://stackoverflow.com/questions/10212741/coldfusion-and-streaming-apis-i-e-twitter
+    owner_display_name: TheJason
+    owner_reputation: "362"
+    owner_link: https://stackoverflow.com/users/1165935/thejason
+    creation_date: "2012-04-18"
+    view_count: "269"
+  latest_reddit_searches:
+  - reddit_id: "99"
+    title: Beta Release | NATS C Client with Streaming API - Check out this new release
+      and be sure to give us some feedback!
+    url: https://github.com/nats-io/cnats/releases
+    author: gcollison
+    created_date: "2018-08-23"
+    score: "3"
+  - reddit_id: "967"
+    title: rigel 0.0.4 released - Added support for streaming API
+    url: https://www.reddit.com/r/rust/comments/967ba3/rigel_004_released_added_support_for_streaming_api/
+    author: xwyvii
+    created_date: "2018-08-10"
+    score: "12"
+  - reddit_id: "93211"
+    title: 'Tweetium: Notice: I''m sad to announce that Tweetium Pro is no longer
+      being offered due to Twitter''s impending shutdown of their Streaming API. Existing
+      Pro users will continue to enjoy benefits until Twitter''s change goes into
+      effect. After that, push notifications and Connect+ will break.'
+    url: https://twitter.com/TweetiumWindows/status/1023662435910078464
+    author: i_post_tech_articles
+    created_date: "2018-07-30"
+    score: "133"
+  - reddit_id: "8"
+    title: GA4GH streaming API htsget a bridge to the future for modern genomic data
+      processing
+    url: https://www.eurekalert.org/pub_releases/2018-06/gafg-gsa062218.php
+    author: -en-
+    created_date: "2018-06-22"
+    score: "1"
+  - reddit_id: "8"
+    title: Could someone help me collect data from the streaming API?
+    url: https://www.reddit.com/r/Planetside/comments/8oosz2/could_someone_help_me_collect_data_from_the/
+    author: Arklur
+    created_date: "2018-06-05"
+    score: "4"
+  - reddit_id: "8"
+    title: Help with music streaming API and server side problems.
+    url: https://www.reddit.com/r/AskProgramming/comments/8h8e24/help_with_music_streaming_api_and_server_side/
+    author: skulls_and_roses
+    created_date: "2018-05-05"
+    score: "2"
+  - reddit_id: "83"
+    title: Recommended way of handling a Streaming API?
+    url: https://www.reddit.com/r/django/comments/83e0rh/recommended_way_of_handling_a_streaming_api/
+    author: xpostudio4
+    created_date: "2018-03-10"
+    score: "3"
+  - reddit_id: "7"
+    title: Streaming APIs In ASP.NET Core
+    url: https://odetocode.com/blogs/scott/archive/2018/01/11/streaming-content-in-asp-net-core-2.aspx
+    author: brunellus28
+    created_date: "2018-01-11"
+    score: "11"
+  - reddit_id: "7"
+    title: Anyone pull news related tweets from the twitter streaming api?? What kind
+      of volume can I expect?
+    url: https://www.reddit.com/r/datasets/comments/7du2da/anyone_pull_news_related_tweets_from_the_twitter/
+    author: ebolanurse
+    created_date: "2017-11-18"
+    score: "16"
+  - reddit_id: "7"
+    title: Avoid 420 errors with Streaming API tweepy
+    url: https://www.reddit.com/r/learnpython/comments/7be0c4/avoid_420_errors_with_streaming_api_tweepy/
+    author: Sathwik_Matsa
+    created_date: "2017-11-07"
+    score: "10"
+  - reddit_id: "7"
+    title: Avoiding error 420s with Streaming API - Tweepy
+    url: https://www.reddit.com/r/learnprogramming/comments/7be22v/avoiding_error_420s_with_streaming_api_tweepy/
+    author: CatGifBot
+    created_date: "2017-11-07"
+    score: "1"
+  - reddit_id: "75"
+    title: Vine Like Video streaming API on React Native
+    url: https://www.reddit.com/r/reactjs/comments/75vrxt/vine_like_video_streaming_api_on_react_native/
+    author: srini_b
+    created_date: "2017-10-12"
+    score: "1"
+  - reddit_id: "72"
+    title: 1/2 ETH reward for HitBTC v2 streaming API documentation
+    url: https://www.reddit.com/r/BitcoinMarkets/comments/72whaj/12_eth_reward_for_hitbtc_v2_streaming_api/
+    author: freekzero
+    created_date: "2017-09-28"
+    score: "5"
+  - reddit_id: "72"
+    title: 1/2 ETH reward for HitBTC v2 streaming API documentation
+    url: https://www.reddit.com/r/CryptoMarkets/comments/72wlc9/12_eth_reward_for_hitbtc_v2_streaming_api/
+    author: freekzero
+    created_date: "2017-09-28"
+    score: "1"
+  - reddit_id: "72"
+    title: 1/2 ETH reward for v2 streaming API documentation
+    url: https://www.reddit.com/r/hitbtc/comments/72pley/12_eth_reward_for_v2_streaming_api_documentation/
+    author: freekzero
+    created_date: "2017-09-27"
+    score: "1"
+  - reddit_id: "719"
+    title: Streaming API v2 documentation?
+    url: https://github.com/hitbtc-com/hitbtc-api/blob/master/APIv2.md
+    author: freekzero
+    created_date: "2017-09-20"
+    score: "2"
+  - reddit_id: "6"
+    title: Please help w/ postgres streaming API setup
+    url: https://www.reddit.com/r/postgres/comments/6fut2d/please_help_w_postgres_streaming_api_setup/
+    author: zad0xlik
+    created_date: "2017-06-07"
+    score: "1"
+  - reddit_id: "5"
+    title: 'The end of polling: why and how to transform a REST API into a Data Streaming
+      API?'
+    url: https://cds.cern.ch/record/2255002?ln=en
+    author: ThomasKrieger
+    created_date: "2017-03-13"
+    score: "5"
+  - reddit_id: "5"
+    title: 'New version of Antenna (formerly NTNA) released: fixes streaming API,
+      DVR functionality and TopShelf'
+    url: https://github.com/lucasharding/antenna/releases/tag/v1.0.1
+    author: alphtrion
+    created_date: "2017-02-12"
+    score: "22"
+  - reddit_id: "5"
+    title: Why You Might Be Misusing Sparks Streaming API
+    url: http://asyncified.io/2017/02/10/why-you-might-be-misusing-sparks-streaming-api/
+    author: yuvalos
+    created_date: "2017-02-10"
+    score: "7"
+  - reddit_id: "5"
+    title: Easily work with the Twitter Streaming API in PHP
+    url: https://murze.be/2017/01/easily-work-with-the-twitter-streaming-api-in-php/
+    author: freekmurze
+    created_date: "2017-01-16"
+    score: "11"
+  - reddit_id: "4"
+    title: Python Streaming API for Raspberry Pi
+    url: https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/4tmiwf/python_streaming_api_for_raspberry_pi/
+    author: jkoolcloud
+    created_date: "2016-07-19"
+    score: "9"
+  - reddit_id: "4"
+    title: We at Whitespell just open sourced our video streaming API
+    url: https://www.reddit.com/r/opensource/comments/4esnln/we_at_whitespell_just_open_sourced_our_video/
+    author: pdwitte
+    created_date: "2016-04-14"
+    score: "43"
+  latest_hacker_news_searches:
+  - hacker_news_id: "17015709"
+    title: How you all started with streaming APIs in your workplace?
+    url: ""
+    created_at: "2018-05-07"
+    points: "2"
+  - hacker_news_id: "13565793"
+    title: Apache Beam Unifying Streaming APIs
+    url: https://www.talend.com/blog/2017/01/23/apache-beam-way-greater-data-agility/
+    created_at: "2017-02-03"
+    points: "3"
+  - hacker_news_id: "12217612"
+    title: "Show HN Heartbeat \u2013 Transform REST Endpoints to Streaming APIs"
+    url: https://heartbeat.appbase.io
+    created_at: "2016-08-03"
+    points: "111"
+  - hacker_news_id: "12196600"
+    title: Apache Beam The Case for Unifying Streaming APIs
+    url: https://www.infoq.com/presentations/apache-beam
+    created_at: "2016-07-31"
+    points: "2"
+  - hacker_news_id: "8850647"
+    title: Adding Animated GIFs via REST and Streaming APIs
+    url: https://twittercommunity.com/t/adding-animated-gifs-via-rest-and-streaming-apis/30070
+    created_at: "2015-01-07"
+    points: "1"
+  - hacker_news_id: "8192259"
+    title: "Tomahawk \u2013 A meta source music player"
+    url: http://www.tomahawk-player.org/index.html?1
+    created_at: "2014-08-18"
+    points: "2"
+  - hacker_news_id: "6148579"
+    title: Rocket A hybrid approach to real-time cloud applications
+    url: http://rocket.github.io
+    created_at: "2013-08-02"
+    points: "2"
+  - hacker_news_id: "5137433"
+    title: Tweetping, Twitter traffic in real time
+    url: http://tweetping.net/#
+    created_at: "2013-01-29"
+    points: "6"
+  - hacker_news_id: "4711384"
+    title: Simple Node.js Twitter user stream module
+    url: https://github.com/aivis/user-stream
+    created_at: "2012-10-29"
+    points: "3"
+  - hacker_news_id: "4308235"
+    title: Twitter clients distribution in real-time
+    url: http://twitter-clients.herokuapp.com/
+    created_at: "2012-07-29"
+    points: "3"
+  - hacker_news_id: "4228008"
+    title: Twitter says they fixed the Memcache calcification problem. Dormando disagrees.
+    url: https://github.com/twitter/twemcache/issues/2
+    created_at: "2012-07-10"
+    points: "10"
+  - hacker_news_id: "4117680"
+    title: Why your web framework should not adopt Rack API
+    url: http://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api/
+    created_at: "2012-06-15"
+    points: "3"
+  - hacker_news_id: "4019129"
+    title: Building Streaming REST APIs with Ruby
+    url: http://intridea.com/blog/2012/5/24/building-streaming-rest-apis-with-ruby
+    created_at: "2012-05-24"
+    points: "32"
+  - hacker_news_id: "3979283"
+    title: Working with the Twitter Streaming APIs
+    url: https://dev.twitter.com/blog/working-with-twitter-streaming-apis
+    created_at: "2012-05-15"
+    points: "1"
+  - hacker_news_id: "3460075"
+    title: Programming Styles in the Node Community
+    url: http://dailyjs.com/2012/01/12/style/
+    created_at: "2012-01-13"
+    points: "2"
+  - hacker_news_id: "2680511"
+    title: A Node.js hacker asks what Haskell can do to stay relevant.
+    url: http://stackoverflow.com/questions/3847108/what-is-the-haskell-response-to-node-js
+    created_at: "2011-06-21"
+    points: "10"
+  - hacker_news_id: "2455841"
+    title: STREST Protocol to create realtime scalable streaming APIs
+    url: https://github.com/trendrr/strest-server/wiki/STREST-Protocol-Spec
+    created_at: "2011-04-17"
+    points: "2"
+- tag: Streaming Data
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "51970084"
+    title: how to scrape real time / live streaming data website?
+    url: https://stackoverflow.com/questions/51970084/how-to-scrape-real-time-live-streaming-data-website
+    owner_display_name: Manu khurana
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10260308/manu-khurana
+    creation_date: "2018-08-22"
+    view_count: "27"
+  - question_id: "51847267"
+    title: python-snappy streaming data in a loop to a client
+    url: https://stackoverflow.com/questions/51847267/python-snappy-streaming-data-in-a-loop-to-a-client
+    owner_display_name: tingy
+    owner_reputation: "15"
+    owner_link: https://stackoverflow.com/users/9830168/tingy
+    creation_date: "2018-08-14"
+    view_count: "26"
+  - question_id: "51747031"
+    title: external/streaming data in bokeh without bokeh server
+    url: https://stackoverflow.com/questions/51747031/external-streaming-data-in-bokeh-without-bokeh-server
+    owner_display_name: Marc8932
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9308858/marc8932
+    creation_date: "2018-08-08"
+    view_count: "48"
+  - question_id: "51706135"
+    title: Data quality test for streaming data using spark
+    url: https://stackoverflow.com/questions/51706135/data-quality-test-for-streaming-data-using-spark
+    owner_display_name: BlueMango
+    owner_reputation: "8"
+    owner_link: https://stackoverflow.com/users/9417884/bluemango
+    creation_date: "2018-08-06"
+    view_count: "14"
+  - question_id: "51658745"
+    title: Apache Flink calculate quantiles on streaming data [in scala)
+    url: https://stackoverflow.com/questions/51658745/apache-flink-calculate-quantiles-on-streaming-data-in-scala
+    owner_display_name: aarora
+    owner_reputation: "10"
+    owner_link: https://stackoverflow.com/users/8142907/aarora
+    creation_date: "2018-08-02"
+    view_count: "38"
+  - question_id: "51561663"
+    title: Live streaming data using chart.js, javascript, html
+    url: https://stackoverflow.com/questions/51561663/live-streaming-data-using-chart-js-javascript-html
+    owner_display_name: Manaal Siddiqui
+    owner_reputation: "14"
+    owner_link: https://stackoverflow.com/users/9861434/manaal-siddiqui
+    creation_date: "2018-07-27"
+    view_count: "40"
+  - question_id: "51436878"
+    title: Visualization of streaming data in R shiny is not updating
+    url: https://stackoverflow.com/questions/51436878/visualization-of-streaming-data-in-r-shiny-is-not-updating
+    owner_display_name: Avijit Mallick
+    owner_reputation: "15"
+    owner_link: https://stackoverflow.com/users/9063517/avijit-mallick
+    creation_date: "2018-07-20"
+    view_count: "44"
+  - question_id: "51367657"
+    title: Moving/Streaming data out of Google cloud storage
+    url: https://stackoverflow.com/questions/51367657/moving-streaming-data-out-of-google-cloud-storage
+    owner_display_name: Roshan Fernando
+    owner_reputation: "31"
+    owner_link: https://stackoverflow.com/users/9481677/roshan-fernando
+    creation_date: "2018-07-16"
+    view_count: "54"
+  - question_id: "51267403"
+    title: Kafka or Database which one should come first in streaming data pipeline?
+    url: https://stackoverflow.com/questions/51267403/kafka-or-database-which-one-should-come-first-in-streaming-data-pipeline
+    owner_display_name: Reegan Ochora
+    owner_reputation: "509"
+    owner_link: https://stackoverflow.com/users/1563469/reegan-ochora
+    creation_date: "2018-07-10"
+    view_count: "35"
+  - question_id: "51237842"
+    title: Handling streaming data from a mobile app (via POST)
+    url: https://stackoverflow.com/questions/51237842/handling-streaming-data-from-a-mobile-app-via-post
+    owner_display_name: pad11
+    owner_reputation: "69"
+    owner_link: https://stackoverflow.com/users/5453649/pad11
+    creation_date: "2018-07-08"
+    view_count: "23"
+  - question_id: "51136417"
+    title: How to solve 404 error in flume while streaming data from twitter?
+    url: https://stackoverflow.com/questions/51136417/how-to-solve-404-error-in-flume-while-streaming-data-from-twitter
+    owner_display_name: Aamod Khatiwada
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10021548/aamod-khatiwada
+    creation_date: "2018-07-02"
+    view_count: "28"
+  - question_id: "50990794"
+    title: How remove old spark streaming data?
+    url: https://stackoverflow.com/questions/50990794/how-remove-old-spark-streaming-data
+    owner_display_name: oleg_v_
+    owner_reputation: "6"
+    owner_link: https://stackoverflow.com/users/9978894/oleg-v
+    creation_date: "2018-06-22"
+    view_count: "44"
+  - question_id: "50954394"
+    title: plotting a sliding time window over streaming data
+    url: https://stackoverflow.com/questions/50954394/plotting-a-sliding-time-window-over-streaming-data
+    owner_display_name: asaf oron
+    owner_reputation: "19"
+    owner_link: https://stackoverflow.com/users/9192427/asaf-oron
+    creation_date: "2018-06-20"
+    view_count: "24"
+  - question_id: "50951127"
+    title: web sockets for multiple rest endpoints in spring-boot to be called in
+      angular to provide streaming data
+    url: https://stackoverflow.com/questions/50951127/web-sockets-for-multiple-rest-endpoints-in-spring-boot-to-be-called-in-angular-t
+    owner_display_name: user9414660
+    owner_reputation: "29"
+    owner_link: https://stackoverflow.com/users/9414660/user9414660
+    creation_date: "2018-06-20"
+    view_count: "10"
+  - question_id: "50797189"
+    title: Query Streaming Data Using --time_partitioning_field
+    url: https://stackoverflow.com/questions/50797189/query-streaming-data-using-time-partitioning-field
+    owner_display_name: Logan
+    owner_reputation: "541"
+    owner_link: https://stackoverflow.com/users/1095540/logan
+    creation_date: "2018-06-11"
+    view_count: "95"
+  - question_id: "50804717"
+    title: Is it possible to fix failed inserts to BigQuery when streaming data from
+      other Google Cloud services?
+    url: https://stackoverflow.com/questions/50804717/is-it-possible-to-fix-failed-inserts-to-bigquery-when-streaming-data-from-other
+    owner_display_name: osipov
+    owner_reputation: "365"
+    owner_link: https://stackoverflow.com/users/3809616/osipov
+    creation_date: "2018-06-11"
+    view_count: "30"
+  - question_id: "50769048"
+    title: Encoding for HTTP POST/PUT with JSON and Streaming data
+    url: https://stackoverflow.com/questions/50769048/encoding-for-http-post-put-with-json-and-streaming-data
+    owner_display_name: Programmer9000
+    owner_reputation: "640"
+    owner_link: https://stackoverflow.com/users/1019182/programmer9000
+    creation_date: "2018-06-08"
+    view_count: "20"
+  - question_id: "50705355"
+    title: Streaming data from kafka to http
+    url: https://stackoverflow.com/questions/50705355/streaming-data-from-kafka-to-http
+    owner_display_name: Martynenko Mikhail
+    owner_reputation: "8"
+    owner_link: https://stackoverflow.com/users/7221751/martynenko-mikhail
+    creation_date: "2018-06-05"
+    view_count: "65"
+  - question_id: "50680499"
+    title: How to sink streaming data from spark to Mongodb?
+    url: https://stackoverflow.com/questions/50680499/how-to-sink-streaming-data-from-spark-to-mongodb
+    owner_display_name: Vivek Singh
+    owner_reputation: "291"
+    owner_link: https://stackoverflow.com/users/4801727/vivek-singh
+    creation_date: "2018-06-04"
+    view_count: "94"
+  - question_id: "50647613"
+    title: How to make browser download fail when streaming data to res body
+    url: https://stackoverflow.com/questions/50647613/how-to-make-browser-download-fail-when-streaming-data-to-res-body
+    owner_display_name: DAC
+    owner_reputation: "88"
+    owner_link: https://stackoverflow.com/users/4068247/dac
+    creation_date: "2018-06-01"
+    view_count: "16"
+  - question_id: "50611108"
+    title: Druid - Streaming Data Ingestion - Continuous Aggregations
+    url: https://stackoverflow.com/questions/50611108/druid-streaming-data-ingestion-continuous-aggregations
+    owner_display_name: Explorer
+    owner_reputation: "3"
+    owner_link: https://stackoverflow.com/users/9871957/explorer
+    creation_date: "2018-05-30"
+    view_count: "37"
+  - question_id: "50612710"
+    title: read streaming data over pipe in python
+    url: https://stackoverflow.com/questions/50612710/read-streaming-data-over-pipe-in-python
+    owner_display_name: Steve
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9263920/steve
+    creation_date: "2018-05-30"
+    view_count: "55"
+  - question_id: "50460451"
+    title: How to store spark streaming data to Hdfs in Hortonworks?
+    url: https://stackoverflow.com/questions/50460451/how-to-store-spark-streaming-data-to-hdfs-in-hortonworks
+    owner_display_name: Amrutha J Raj
+    owner_reputation: "73"
+    owner_link: https://stackoverflow.com/users/8355689/amrutha-j-raj
+    creation_date: "2018-05-21"
+    view_count: "94"
+  - question_id: "50248590"
+    title: Streaming data to Bigquery using Appengine
+    url: https://stackoverflow.com/questions/50248590/streaming-data-to-bigquery-using-appengine
+    owner_display_name: manuela
+    owner_reputation: "11"
+    owner_link: https://stackoverflow.com/users/9763260/manuela
+    creation_date: "2018-05-09"
+    view_count: "119"
+  - question_id: "50148591"
+    title: When spark streaming data from Kafka it shows connection timeout exception
+      in Horton works
+    url: https://stackoverflow.com/questions/50148591/when-spark-streaming-data-from-kafka-it-shows-connection-timeout-exception-in-ho
+    owner_display_name: user9733732
+    owner_reputation: "0"
+    owner_link: https://stackoverflow.com/users/1019182/programmer9000
+    creation_date: "2018-05-02"
+    view_count: "158"
+  latest_reddit_searches:
+  - reddit_id: "9978"
+    title: 'Roku Ultra: Streaming Data Usage'
+    url: https://www.reddit.com/r/Roku/comments/9978of/roku_ultra_streaming_data_usage/
+    author: sophormoon
+    created_date: "2018-08-21"
+    score: "8"
+  - reddit_id: "9614"
+    title: Real-time streaming data analysis with Confluent Platform + Kinetica GPU
+      Database
+    url: https://www.reddit.com/r/apachekafka/comments/9614oh/realtime_streaming_data_analysis_with_confluent/
+    author: extremedata123
+    created_date: "2018-08-09"
+    score: "3"
+  - reddit_id: "950"
+    title: Data quality test for streaming data using spark
+    url: https://www.reddit.com/r/learnprogramming/comments/950dgj/data_quality_test_for_streaming_data_using_spark/
+    author: Seelenfresser
+    created_date: "2018-08-06"
+    score: "2"
+  - reddit_id: "950"
+    title: Data quality test for streaming data using spark
+    url: https://www.reddit.com/r/AskProgramming/comments/950hov/data_quality_test_for_streaming_data_using_spark/
+    author: Seelenfresser
+    created_date: "2018-08-06"
+    score: "0"
+  - reddit_id: "9377"
+    title: '@Nielsen: While not all content providers offer streaming video, looking
+      at viewing linear and streaming data can provide holistic viewing trends https://t.co/JzumZADdIk
+      https://t.co/v4Y6luz3op'
+    url: https://mobile.twitter.com/Nielsen/status/1024014269820624896
+    author: -en-
+    created_date: "2018-07-30"
+    score: "1"
+  - reddit_id: "924"
+    title: After being burned by a dev I hired, I started from zero, rolled up my
+      sleeves and learned Swift. Here's my first iOS app, Mozart. A music video app
+      that generates smart playlists based on genres/themes, streaming data, chart
+      rankings, expert recommendations, and AI.
+    url: https://itunes.apple.com/us/app/mozart-music-video-paradise/id1359745334
+    author: groundedastronaut
+    created_date: "2018-07-26"
+    score: "77"
+  - reddit_id: "925"
+    title: Spotify CEO Says Metallica Use Streaming Data to Determine Set Lists in
+      Different Cities
+    url: http://noisecreep.com/spotify-ceo-metallica-use-streams-determine-set-lists/
+    author: HeavyMetalBoneyard
+    created_date: "2018-07-26"
+    score: "1"
+  - reddit_id: "925"
+    title: Spotify CEO Says Metallica Use Streaming Data to Determine Set Lists in
+      Different Cities
+    url: http://loudwire.com/spotify-ceo-metallica-use-streams-determine-set-lists/
+    author: HeavyMetalBoneyard
+    created_date: "2018-07-26"
+    score: "1"
+  - reddit_id: "91"
+    title: 'Devoxx Poland 2018: Processing Streaming Data with KSQL (for Kafka) by
+      Tim Berglund'
+    url: https://www.youtube.com/watch?v=LM-aQQQes4Q
+    author: gomis71
+    created_date: "2018-07-25"
+    score: "5"
+  - reddit_id: "91"
+    title: Measuring data quality metrics for streaming data
+    url: https://www.reddit.com/r/cscareerquestions/comments/91hnt4/measuring_data_quality_metrics_for_streaming_data/
+    author: Seelenfresser
+    created_date: "2018-07-24"
+    score: "1"
+  - reddit_id: "8"
+    title: Streaming Data to Web Graph
+    url: https://www.reddit.com/r/learnpython/comments/8zy3bg/streaming_data_to_web_graph/
+    author: OverratedBurritos
+    created_date: "2018-07-18"
+    score: "3"
+  - reddit_id: "8"
+    title: free streaming data
+    url: https://www.reddit.com/r/IndieMusicPromotion/comments/88830v/music_discovery_xo_discoverdownloadpromote/
+    author: musicdiscoveryapp
+    created_date: "2018-07-15"
+    score: "1"
+  - reddit_id: "8"
+    title: Mobile app streaming data usage?
+    url: https://www.reddit.com/r/Twitch/comments/8u3lft/mobile_app_streaming_data_usage/
+    author: Elena_La_Loca
+    created_date: "2018-06-26"
+    score: "1"
+  - reddit_id: "8"
+    title: Streaming data over ethernet? (Xilinx KCU105 board)
+    url: https://www.reddit.com/r/FPGA/comments/8slv71/streaming_data_over_ethernet_xilinx_kcu105_board/
+    author: Magikarp-Army
+    created_date: "2018-06-20"
+    score: "11"
+  - reddit_id: "8"
+    title: 'Siphon: Streaming data ingestion with Apache Kafka'
+    url: http://microsoftonlineguide.blogspot.com/2018/06/siphon-streaming-data-ingestion-with.html
+    author: kristenwaston
+    created_date: "2018-06-19"
+    score: "1"
+  - reddit_id: "8"
+    title: Get Started with Real-Time Streaming Data in Under 5 Minutes - AWS Online
+      Tech Talks
+    url: http://www.cloudypoint.com/amazon-web-services/get-started-with-real-time-streaming-data-in-under-5-minutes-aws-online-tech-talks/
+    author: foundnazi
+    created_date: "2018-06-19"
+    score: "1"
+  - reddit_id: "8"
+    title: What options are there for streaming data from drone to a remote server?
+    url: https://www.reddit.com/r/drones/comments/8q50nb/what_options_are_there_for_streaming_data_from/
+    author: likeaspacemonkey
+    created_date: "2018-06-11"
+    score: "2"
+  - reddit_id: "8"
+    title: Streaming data over Bluetooth
+    url: https://www.reddit.com/r/embedded/comments/8lqbfx/streaming_data_over_bluetooth/
+    author: cwillforeal
+    created_date: "2018-05-24"
+    score: "3"
+  - reddit_id: "8"
+    title: A summary of the Streaming Data Payment Protocol (SDPP) and what it means
+      for IOTA
+    url: https://medium.com/@lewdaly/streaming-data-payment-protocol-sdpp-on-iota-4610f0c55535
+    author: lwilld
+    created_date: "2018-05-23"
+    score: "78"
+  - reddit_id: "8"
+    title: MIT Innovator under 35 applies for the IOTA ecosystem fund to build Streaming
+      Data Payment Protocol
+    url: https://www.reddit.com/r/Iota/comments/8kk8me/mit_innovator_under_35_applies_for_the_iota/
+    author: GuitahPietah
+    created_date: "2018-05-19"
+    score: "268"
+  - reddit_id: "8"
+    title: A bespoke music magazine concept based of your streaming data
+    url: https://imgur.com/gallery/sKAqeXA
+    author: oneforthewall
+    created_date: "2018-05-17"
+    score: "8"
+  - reddit_id: "8"
+    title: "Twenty One Pilots fan map by New York Times (based on YouTube's geocoded
+      streaming data)"
+    url: https://i.redd.it/kandrr8wq0y01.jpg
+    author: shawn_tai
+    created_date: "2018-05-15"
+    score: "248"
+  - reddit_id: "8"
+    title: Early instance of what losing net neutrality looks like? Cricket Wireless
+      unlimited streaming data plan now comes with bonus reduced speed for streaming
+      Video
+    url: https://www.reddit.com/r/netneutrality/comments/8iatof/early_instance_of_what_losing_net_neutrality/
+    author: itchyd
+    created_date: "2018-05-10"
+    score: "11"
+  - reddit_id: "8"
+    title: Threat to IOTA? Amazon, Bitcoin and a Streaming Data Marketplace
+    url: https://toshitimes.com/amazon-granted-patent-for-stream-data-marketplace-with-bitcoin-use-case/
+    author: squareoak
+    created_date: "2018-04-18"
+    score: "20"
+  - reddit_id: "8"
+    title: Amazon Granted Patent For Streaming Data Marketplace With Bitcoin Use Case
+      By Cointelegraph
+    url: https://m.investing.com/news/cryptocurrency-news/amazon-granted-patent-for-streaming-data-marketplace-with-bitcoin-use-case-1400093
+    author: jhobag
+    created_date: "2018-04-18"
+    score: "22"
+  latest_hacker_news_searches:
+  - hacker_news_id: "17302171"
+    title: "Show HN PGDeltaStream \u2013 Streaming Postgres database changes over
+      WebSockets"
+    url: https://github.com/hasura/pgdeltastream
+    created_at: "2018-06-13"
+    points: "24"
+  - hacker_news_id: "16167482"
+    title: You might have a streaming data problem if
+    url: https://blog.wallaroolabs.com/2018/01/you-might-have-a-streaming-data-problem-if.../
+    created_at: "2018-01-17"
+    points: "11"
+  - hacker_news_id: "14670602"
+    title: "RocketMQ \u2013 Open source distributed messaging and streaming data platform"
+    url: https://rocketmq.incubator.apache.org/
+    created_at: "2017-06-30"
+    points: "133"
+  - hacker_news_id: "13995648"
+    title: Streaming Databases in Real-Time with Kafka, Debezium, and MySQL
+    url: https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka
+    created_at: "2017-03-30"
+    points: "110"
+  - hacker_news_id: "12454567"
+    title: Show HN Real-time streaming data pipeline in python
+    url: https://github.com/plecto/motorway
+    created_at: "2016-09-08"
+    points: "7"
+  - hacker_news_id: "12269204"
+    title: Process Streaming Data in Real Time with SQL
+    url: https://aws.amazon.com/blogs/aws/amazon-kinesis-analytics-process-streaming-data-in-real-time-with-sql/
+    created_at: "2016-08-11"
+    points: "18"
+  - hacker_news_id: "11058622"
+    title: Show HN Realtime streaming data from all US courts (100 loc)
+    url: https://courts.zjonsson.com/
+    created_at: "2016-02-08"
+    points: "8"
+  - hacker_news_id: "10902452"
+    title: PipelineDB Releases Enterprise Version of Its Streaming SQL Database
+    url: http://techcrunch.com/2016/01/14/pipelinedb-releases-first-enterprise-version-of-its-streaming-sql-database/
+    created_at: "2016-01-14"
+    points: "14"
+  - hacker_news_id: "10535833"
+    title: Building a Streaming Analytics Data Stack
+    url: https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661
+    created_at: "2015-11-09"
+    points: "70"
+  - hacker_news_id: "10436694"
+    title: Google Dataflow A Unified Model for Batch and Streaming Data Processing
+      [video]
+    url: https://www.youtube.com/watch?v=3UfZN59Nsk8
+    created_at: "2015-10-22"
+    points: "35"
+  - hacker_news_id: "10368114"
+    title: Plumbum A lazy, constant-memory streaming data Rust library
+    url: https://srijs.github.io/rust-plumbum/plumbum/
+    created_at: "2015-10-10"
+    points: "75"
+  - hacker_news_id: "10362748"
+    title: Building a Streaming Data Hub with Elasticsearch, Kafka and Cassandra
+    url: http://thenewstack.io/building-streaming-data-hub-elasticsearch-kafka-cassandra/
+    created_at: "2015-10-09"
+    points: "8"
+  - hacker_news_id: "10288852"
+    title: "Akka Streams Streaming Data Transformation \xE0 la Carte"
+    url: http://www.infoq.com/presentations/akka-streams
+    created_at: "2015-09-27"
+    points: "28"
+  - hacker_news_id: "9854235"
+    title: GUN v0.2.0-alpha Release Streaming Database and P2P Abstractions
+    url: http://gundb.github.io/2015/7/6.html
+    created_at: "2015-07-08"
+    points: "10"
+  - hacker_news_id: "6734416"
+    title: Amazon Kinesis real-time processing of streaming data
+    url: http://aws.amazon.com/kinesis/
+    created_at: "2013-11-14"
+    points: "8"
+  - hacker_news_id: "6536979"
+    title: My Streaming Data
+    url: http://zoekeating.tumblr.com/post/16086277627/my-treaming-data
+    created_at: "2013-10-11"
+    points: "12"
+  - hacker_news_id: "5181356"
+    title: Histo.c  histograms in the terminal for static or streaming data
+    url: https://github.com/visionmedia/histo
+    created_at: "2013-02-07"
+    points: "53"
+  - hacker_news_id: "3716064"
+    title: Smoothie Charts a small javascript charting library for live streaming
+      data
+    url: http://smoothiecharts.org/
+    created_at: "2012-03-16"
+    points: "145"
+  - hacker_news_id: "3561839"
+    title: A depthcam? A webkinect? Streaming depth data over a binary WebSocket
+    url: http://blog.mackerron.com/2012/02/03/depthcam-webkinect/
+    created_at: "2012-02-07"
+    points: "18"
+  - hacker_news_id: "3393057"
+    title: Streaming data into Backbone.js collections
+    url: http://weblog.bocoup.com/backbone-live-collections
+    created_at: "2011-12-26"
+    points: "7"
+- tag: Webhooks
+  latest_curated: ""
+  latest_stack_exchange_searches:
+  - question_id: "52011728"
+    title: Consuming a Webhooks in asp.net mvc application
+    url: https://stackoverflow.com/questions/52011728/consuming-a-webhooks-in-asp-net-mvc-application
+    owner_display_name: Unbreakable
+    owner_reputation: "2087"
+    owner_link: https://stackoverflow.com/users/1292432/unbreakable
+    creation_date: "2018-08-24"
+    view_count: "35"
+  - question_id: "52002694"
+    title: Facebook App Review - Webhooks for pages
+    url: https://stackoverflow.com/questions/52002694/facebook-app-review-webhooks-for-pages
+    owner_display_name: Sindhu Koderi
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/7403957/sindhu-koderi
+    creation_date: "2018-08-24"
+    view_count: "10"
+  - question_id: "51989277"
+    title: View in MailChimp account webhooks added via Mandrill API
+    url: https://stackoverflow.com/questions/51989277/view-in-mailchimp-account-webhooks-added-via-mandrill-api
+    owner_display_name: GM6
+    owner_reputation: "89"
+    owner_link: https://stackoverflow.com/users/4113730/gm6
+    creation_date: "2018-08-23"
+    view_count: "4"
+  - question_id: "51984942"
+    title: Halt progress of Ninja Forms if Webhooks respond with error
+    url: https://stackoverflow.com/questions/51984942/halt-progress-of-ninja-forms-if-webhooks-respond-with-error
+    owner_display_name: johnohod
+    owner_reputation: "100"
+    owner_link: https://stackoverflow.com/users/1695602/johnohod
+    creation_date: "2018-08-23"
+    view_count: "13"
+  - question_id: "51948268"
+    title: Receiving webhooks PHP &quot;&amp;contact[uid]=&quot;
+    url: https://stackoverflow.com/questions/51948268/receiving-webhooks-php-contactuid
+    owner_display_name: HotsyncUK
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10254628/hotsyncuk
+    creation_date: "2018-08-21"
+    view_count: "30"
+  - question_id: "51924125"
+    title: Mandrill webhooks, SSL certificate verify failed, verify that the CA cert
+      is OK
+    url: https://stackoverflow.com/questions/51924125/mandrill-webhooks-ssl-certificate-verify-failed-verify-that-the-ca-cert-is-ok
+    owner_display_name: Tobias Heuts
+    owner_reputation: "26"
+    owner_link: https://stackoverflow.com/users/9121463/tobias-heuts
+    creation_date: "2018-08-19"
+    view_count: "7"
+  - question_id: "51910439"
+    title: Mandrill webhooks reports
+    url: https://stackoverflow.com/questions/51910439/mandrill-webhooks-reports
+    owner_display_name: user10243677
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10243677/user10243677
+    creation_date: "2018-08-18"
+    view_count: "13"
+  - question_id: "51908914"
+    title: Trigger Scripts/WebHooks upon GSuite Authentication
+    url: https://stackoverflow.com/questions/51908914/trigger-scripts-webhooks-upon-gsuite-authentication
+    owner_display_name: Laurent Ades
+    owner_reputation: "18"
+    owner_link: https://stackoverflow.com/users/6301126/laurent-ades
+    creation_date: "2018-08-18"
+    view_count: "15"
+  - question_id: "51822878"
+    title: Why wordfence blocked Woocommerce API and webhooks?
+    url: https://stackoverflow.com/questions/51822878/why-wordfence-blocked-woocommerce-api-and-webhooks
+    owner_display_name: Gene Dev
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/10219457/gene-dev
+    creation_date: "2018-08-13"
+    view_count: "13"
+  - question_id: "51774806"
+    title: Twilio chat webhooks not running
+    url: https://stackoverflow.com/questions/51774806/twilio-chat-webhooks-not-running
+    owner_display_name: MechEngineer
+    owner_reputation: "589"
+    owner_link: https://stackoverflow.com/users/776617/mechengineer
+    creation_date: "2018-08-09"
+    view_count: "16"
+  - question_id: "51751930"
+    title: Facebook Webhooks for Connected Status
+    url: https://stackoverflow.com/questions/51751930/facebook-webhooks-for-connected-status
+    owner_display_name: Mike
+    owner_reputation: "2698"
+    owner_link: https://stackoverflow.com/users/2055368/mike
+    creation_date: "2018-08-08"
+    view_count: "14"
+  - question_id: "51684425"
+    title: Django + Stripe Webhooks
+    url: https://stackoverflow.com/questions/51684425/django-stripe-webhooks
+    owner_display_name: Jon Programmer
+    owner_reputation: "261"
+    owner_link: https://stackoverflow.com/users/9252255/jon-programmer
+    creation_date: "2018-08-04"
+    view_count: "37"
+  - question_id: "51667476"
+    title: Hooking to Zapier using angular6 WebHooks as RESThooks?
+    url: https://stackoverflow.com/questions/51667476/hooking-to-zapier-using-angular6-webhooks-as-resthooks
+    owner_display_name: Lakhvir Singh
+    owner_reputation: "287"
+    owner_link: https://stackoverflow.com/users/7403977/lakhvir-singh
+    creation_date: "2018-08-03"
+    view_count: "22"
+  - question_id: "51618774"
+    title: Trigger a webhook every time something merge into master - GitHub Webhooks
+    url: https://stackoverflow.com/questions/51618774/trigger-a-webhook-every-time-something-merge-into-master-github-webhooks
+    owner_display_name: Hafiz Temuri
+    owner_reputation: "542"
+    owner_link: https://stackoverflow.com/users/4054527/hafiz-temuri
+    creation_date: "2018-07-31"
+    view_count: "23"
+  - question_id: "51611225"
+    title: How to handle PayPal Webhooks response in PHP
+    url: https://stackoverflow.com/questions/51611225/how-to-handle-paypal-webhooks-response-in-php
+    owner_display_name: Saurabh Moses Ram
+    owner_reputation: "34"
+    owner_link: https://stackoverflow.com/users/2567393/saurabh-moses-ram
+    creation_date: "2018-07-31"
+    view_count: "22"
+  - question_id: "51569468"
+    title: WooCommerce how to receive WebHooks data?
+    url: https://stackoverflow.com/questions/51569468/woocommerce-how-to-receive-webhooks-data
+    owner_display_name: Mohammad Shahnewaz Sarker
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9107427/mohammad-shahnewaz-sarker
+    creation_date: "2018-07-28"
+    view_count: "19"
+  - question_id: "51561622"
+    title: Do Circuit Webhooks have a signature?
+    url: https://stackoverflow.com/questions/51561622/do-circuit-webhooks-have-a-signature
+    owner_display_name: roidelapluie
+    owner_reputation: "15"
+    owner_link: https://stackoverflow.com/users/7581030/roidelapluie
+    creation_date: "2018-07-27"
+    view_count: "22"
+  - question_id: "51559234"
+    title: Evernote webhooks IP whitelist
+    url: https://stackoverflow.com/questions/51559234/evernote-webhooks-ip-whitelist
+    owner_display_name: Jonathan Campbell
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/7227092/jonathan-campbell
+    creation_date: "2018-07-27"
+    view_count: "21"
+  - question_id: "51528806"
+    title: Spotify Webhooks?
+    url: https://stackoverflow.com/questions/51528806/spotify-webhooks
+    owner_display_name: Jeffrey
+    owner_reputation: "13"
+    owner_link: https://stackoverflow.com/users/6928335/jeffrey
+    creation_date: "2018-07-25"
+    view_count: "40"
+  - question_id: "51520112"
+    title: Dialogflow and heroku Webhooks
+    url: https://stackoverflow.com/questions/51520112/dialogflow-and-heroku-webhooks
+    owner_display_name: bipin_s
+    owner_reputation: "9"
+    owner_link: https://stackoverflow.com/users/5405813/bipin-s
+    creation_date: "2018-07-25"
+    view_count: "34"
+  - question_id: "50570000"
+    title: Webhooks how to get BRANCH_NAME to upload it by Jenkins
+    url: https://stackoverflow.com/questions/50570000/webhooks-how-to-get-branch-name-to-upload-it-by-jenkins
+    owner_display_name: Andrew
+    owner_reputation: "9"
+    owner_link: https://stackoverflow.com/users/8789107/andrew
+    creation_date: "2018-05-28"
+    view_count: "34"
+  - question_id: "50501436"
+    title: MessageMedia Webhooks PHP SDK Error
+    url: https://stackoverflow.com/questions/50501436/messagemedia-webhooks-php-sdk-error
+    owner_display_name: user9820877
+    owner_reputation: "0"
+    owner_link: https://stackoverflow.com/users/3498001/user3498001
+    creation_date: "2018-05-23"
+    view_count: "29"
+  - question_id: "50358737"
+    title: Connecting Heroku Webhooks with Discord
+    url: https://stackoverflow.com/questions/50358737/connecting-heroku-webhooks-with-discord
+    owner_display_name: user3498001
+    owner_reputation: "3"
+    owner_link: https://stackoverflow.com/users/3498001/user3498001
+    creation_date: "2018-05-15"
+    view_count: "80"
+  - question_id: "50047124"
+    title: Stripe How to list pending webhooks?
+    url: https://stackoverflow.com/questions/50047124/stripe-how-to-list-pending-webhooks
+    owner_display_name: FelDev
+    owner_reputation: "300"
+    owner_link: https://stackoverflow.com/users/5941620/feldev
+    creation_date: "2018-04-26"
+    view_count: "53"
+  - question_id: "49141558"
+    title: IFTTT Webhooks - Not receiving email (but the response says that it was
+      sent)
+    url: https://stackoverflow.com/questions/49141558/ifttt-webhooks-not-receiving-email-but-the-response-says-that-it-was-sent
+    owner_display_name: Nicholette Liguori
+    owner_reputation: "1"
+    owner_link: https://stackoverflow.com/users/9427638/nicholette-liguori
+    creation_date: "2018-03-06"
+    view_count: "174"
+  latest_reddit_searches:
+  - reddit_id: "99"
+    title: Modify an existing python project (multiple web sockets)
+    url: https://www.reddit.com/r/Python/comments/99z8lb/modify_an_existing_python_project_multiple_web/
+    author: phillwilk
+    created_date: "2018-08-24"
+    score: "2"
+  - reddit_id: "99"
+    title: Build reporting
+    url: https://www.reddit.com/r/SCCM/comments/99c56s/build_reporting/
+    author: Gaz_11uk
+    created_date: "2018-08-22"
+    score: "2"
+  - reddit_id: "995"
+    title: How do I display entities on all devices
+    url: https://www.reddit.com/r/ActionsOnGoogle/comments/995yg2/how_do_i_display_entities_on_all_devices/
+    author: Jewkesy
+    created_date: "2018-08-21"
+    score: "1"
+  - reddit_id: "98"
+    title: Import tool for YNAB users
+    url: https://www.reddit.com/r/UKPersonalFinance/comments/98bcbo/import_tool_for_ynab_users/
+    author: scottrobertson
+    created_date: "2018-08-18"
+    score: "23"
+  - reddit_id: "97"
+    title: Can webhooks trigger a IFTTT do button
+    url: https://www.reddit.com/r/ifttt/comments/97tfnt/can_webhooks_trigger_a_ifttt_do_button/
+    author: edbfranklin
+    created_date: "2018-08-16"
+    score: "4"
+  - reddit_id: "96"
+    title: Routines not working at all
+    url: https://www.reddit.com/r/googlehome/comments/96y45j/routines_not_working_at_all/
+    author: bluegrasstruck
+    created_date: "2018-08-13"
+    score: "9"
+  - reddit_id: "96"
+    title: Processing incoming emails
+    url: https://www.reddit.com/r/webdev/comments/96oymv/processing_incoming_emails/
+    author: Treas0n
+    created_date: "2018-08-12"
+    score: "5"
+  - reddit_id: "96743"
+    title: Build a blog with [staticSiteGenerator] and [API] - Continuous deployment
+    url: https://www.reddit.com/r/webdev/comments/96743n/build_a_blog_with_staticsitegenerator_and_api/
+    author: olafviking
+    created_date: "2018-08-10"
+    score: "3"
+  - reddit_id: "93"
+    title: Which hosting service would you recommend for a webhook bot?
+    url: https://www.reddit.com/r/node/comments/93g4a8/which_hosting_service_would_you_recommend_for_a/
+    author: matharooudemy
+    created_date: "2018-07-31"
+    score: "1"
+  - reddit_id: "91"
+    title: 'Raspberry PI3 standing by: What CLI Apps would you run on it ?'
+    url: https://www.reddit.com/r/commandline/comments/91qft3/raspberry_pi3_standing_by_what_cli_apps_would_you/
+    author: knightwize
+    created_date: "2018-07-25"
+    score: "25"
+  - reddit_id: "8"
+    title: Webhook for twitter
+    url: https://www.reddit.com/r/discordapp/comments/8yjsot/webhook_for_twitter/
+    author: Jeebus112
+    created_date: "2018-07-13"
+    score: "2"
+  - reddit_id: "8"
+    title: Setting up enduser &gt; Gitlab &gt; Jenkins &gt; Release management?
+    url: https://www.reddit.com/r/sysadmin/comments/8x8o36/setting_up_enduser_gitlab_jenkins_release/
+    author: npslelelelele
+    created_date: "2018-07-09"
+    score: "15"
+  - reddit_id: "8"
+    title: Homebridge Sensors for Plex
+    url: https://medium.com/plexlabs/homebridge-sensors-for-plex-550b572be54d
+    author: WJKramer
+    created_date: "2018-07-05"
+    score: "102"
+  - reddit_id: "8"
+    title: "Reddit to Discord (webhook) \xABUsage limit exceeded\xBB"
+    url: https://www.reddit.com/r/ifttt/comments/8u8l9a/reddit_to_discord_webhook_usage_limit_exceeded/
+    author: RichyZ99
+    created_date: "2018-06-27"
+    score: "8"
+  - reddit_id: "8"
+    title: me irl
+    url: https://i.redd.it/8qhhnw9m7o411.png
+    author: RedditOmegacreeper
+    created_date: "2018-06-18"
+    score: "734"
+  - reddit_id: "8"
+    title: Every time someone has @everyone in their title on r/discordapp
+    url: https://i.redd.it/026awwwmhny01.png
+    author: Ocke60
+    created_date: "2018-05-18"
+    score: "556"
+  - reddit_id: "8"
+    title: 'Help: Applet is being skipped for a twitter-discord webhook'
+    url: https://i.redd.it/vxbbw7zr7qs01.png
+    author: SharpBit
+    created_date: "2018-04-18"
+    score: "12"
+  - reddit_id: "87"
+    title: Announcement Bot
+    url: https://www.reddit.com/r/discordapp/comments/87l3dm/announcement_bot/
+    author: Random8891
+    created_date: "2018-03-27"
+    score: "3"
+  - reddit_id: "82"
+    title: IFTTT Webhooks - Not receiving email (but response says that it was sent)
+    url: https://www.reddit.com/r/ifttt/comments/82l6zp/ifttt_webhooks_not_receiving_email_but_response/
+    author: PixiiBomb
+    created_date: "2018-03-07"
+    score: "1"
+  - reddit_id: "7"
+    title: Please [Help] Me With Body Line For A Tumblr to Discord (Webhook)
+    url: https://www.reddit.com/r/ifttt/comments/7wgj5g/please_help_me_with_body_line_for_a_tumblr_to/
+    author: tstinson29
+    created_date: "2018-02-09"
+    score: "7"
+  - reddit_id: "7"
+    title: PSA - PlexPy/Tataulli can send you texts.
+    url: https://www.reddit.com/r/PleX/comments/7s0q39/psa_plexpytataulli_can_send_you_texts/
+    author: TheOriginalSuperman
+    created_date: "2018-01-21"
+    score: "62"
+  - reddit_id: "7"
+    title: Applet Skipped in red when previously working for Google Assistant to Webhook
+      call for Domonicz
+    url: https://www.reddit.com/r/ifttt/comments/7iamq1/applet_skipped_in_red_when_previously_working_for/
+    author: Banshee866
+    created_date: "2017-12-07"
+    score: "6"
+  - reddit_id: "786"
+    title: 'Help: Youtube to Discord'
+    url: https://www.reddit.com/r/ifttt/comments/786ee3/help_youtube_to_discord/
+    author: endermanbbq
+    created_date: "2017-10-23"
+    score: "3"
+  - reddit_id: "74989"
+    title: Using discord for roleplaying
+    url: https://www.reddit.com/r/discordapp/comments/74989m/using_discord_for_roleplaying/
+    author: Suicidal_Ferret
+    created_date: "2017-10-04"
+    score: "2"
+  - reddit_id: "65"
+    title: Maker Webhook not parsing uRL encoded JSON correctly :(
+    url: https://www.reddit.com/r/ifttt/comments/65waph/maker_webhook_not_parsing_url_encoded_json/
+    author: anonymousmouse2
+    created_date: "2017-04-17"
+    score: "10"
+  latest_hacker_news_searches:
+  - hacker_news_id: "16976459"
+    title: "Show HN Skor \u2013 Drop-in microservice to get Postgres changes as JSON
+      webhooks"
+    url: https://github.com/hasura/skor
+    created_at: "2018-05-02"
+    points: "133"
+  - hacker_news_id: "16108701"
+    title: "Show HN Hooks Data API \u2013 Realtime Data about Thousands of Topics
+      Over Webhooks"
+    url: https://data.hooks.co
+    created_at: "2018-01-09"
+    points: "145"
+  - hacker_news_id: "15366222"
+    title: Should You Build a Webhooks API?
+    url: https://brandur.org/webhooks
+    created_at: "2017-09-29"
+    points: "95"
+  - hacker_news_id: "14359920"
+    title: Auth0 Extend A new way to extend SaaS applications beyond Webhooks
+    url: https://auth0.com/blog/introducing-auth0-extend-the-new-way-to-extend-your-saas/
+    created_at: "2017-05-17"
+    points: "34"
+  - hacker_news_id: "13130472"
+    title: Webhooks The Devil in the Details
+    url: https://techblog.commercetools.com/webhooks-the-devil-in-the-details-ca7f7982c24f
+    created_at: "2016-12-08"
+    points: "53"
+  - hacker_news_id: "13015537"
+    title: "Webhooks do's and dont's what we learned after integrating APIs"
+    url: https://restful.io/webhooks-dos-and-dont-s-what-we-learned-after-integrating-100-apis-d567405a3671#.9rl15pi3z
+    created_at: "2016-11-22"
+    points: "232"
+  - hacker_news_id: "11430280"
+    title: Dropping Webhooks
+    url: http://blog.runnable.com/post/142092495506/dropping-webhooks
+    created_at: "2016-04-05"
+    points: "55"
+  - hacker_news_id: "9034403"
+    title: Web Socket Hook A bridge between web hooks and web sockets
+    url: http://web.sockethook.io/
+    created_at: "2015-02-11"
+    points: "32"
+  - hacker_news_id: "8532477"
+    title: Hosting for Webhooks and Transform Streams
+    url: http://hook.io/
+    created_at: "2014-10-30"
+    points: "73"
+  - hacker_news_id: "7744733"
+    title: Dropbox Webhooks
+    url: https://www.dropbox.com/developers/blog/90/announcing-dropbox-webhooks
+    created_at: "2014-05-14"
+    points: "184"
+  - hacker_news_id: "7220419"
+    title: Webhooks Level Up
+    url: https://github.com/blog/1778-webhooks-level-up
+    created_at: "2014-02-11"
+    points: "109"
+  - hacker_news_id: "7139176"
+    title: How to safely invoke Webhooks
+    url: http://blog.fanout.io/2014/01/27/how-to-safely-invoke-webhooks/
+    created_at: "2014-01-28"
+    points: "52"
+  - hacker_news_id: "6445657"
+    title: Webhooks Are Magic
+    url: http://blog.iron.io/2013/09/7-reasons-webhooks-are-magic.html
+    created_at: "2013-09-25"
+    points: "93"
+  - hacker_news_id: "4342827"
+    title: IFTTT Needs Webhooks, Stat
+    url: http://blog.jazzychad.net/2012/08/05/ifttt-needs-webhooks-stat.html
+    created_at: "2012-08-05"
+    points: "79"
+  - hacker_news_id: "3540665"
+    title: Stripe blog New webhooks
+    url: https://stripe.com/blog/webhooks
+    created_at: "2012-02-01"
+    points: "83"
+  - hacker_news_id: "3147309"
+    title: Introducing Ixoth, Siri's little helper. Webhooks for Siri
+    url: http://ixoth.com
+    created_at: "2011-10-23"
+    points: "53"
+  - hacker_news_id: "1549084"
+    title: Hookbox Real-time Web with WebSocket/Comet and Webhooks
+    url: http://cometdaily.com/2010/07/26/a-fast-introduction-to-hookbox
+    created_at: "2010-07-26"
+    points: "42"
+  - hacker_news_id: "1305526"
+    title: Notifo (YC W10) adds webhooks for notifications
+    url: https://api.notifo.com/docs/webhooks
+    created_at: "2010-04-29"
+    points: "27"
+  - hacker_news_id: "477891"
+    title: Web Hooks and the Programmable World of Tomorrow
+    url: http://www.slideshare.net/progrium/web-hooks-and-the-programmable-world-of-tomorrow-presentation
+    created_at: "2009-02-11"
+    points: "38"
+  - hacker_news_id: "475082"
+    title: What webhooks are and why you should care
+    url: http://timothyfitz.wordpress.com/2009/02/09/what-webhooks-are-and-why-you-should-care/
+    created_at: "2009-02-10"
+    points: "71"
