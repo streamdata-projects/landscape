@@ -4532,6 +4532,11 @@ landscape:
     points: "7"
 - tag: Webhooks
   latest_curated:
+  - item_date: "2018-08-23 10:18:29"
+    title: 'Adobe I/O Events and Creative Cloud: Collaboration Workflows Just Got
+      More Collaborative'
+    url: https://medium.com/p/efefd581bbd2
+    domain: medium.com
   - item_date: "2018-07-28 08:03:32"
     title: Help Scout Mailbox Webhooks API
     url: https://www.programmableweb.com/api/help-scout-mailbox-webhooks
