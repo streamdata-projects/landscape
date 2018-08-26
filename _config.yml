@@ -877,6 +877,10 @@ landscape:
     points: "20"
 - tag: Machine Learning
   latest_curated:
+  - item_date: "2018-08-08 09:00:35"
+    title: MLflow 0.4.2 Released
+    url: https://databricks.com/?p=31406
+    domain: databricks.com
   - item_date: "2018-08-24 14:13:35"
     title: The Problem With Machine Learning In Healthcare
     url: https://medium.com/p/406c97cb311
@@ -2356,10 +2360,6 @@ landscape:
     title: The machine is learning
     url: https://www.theverge.com/2017/5/17/15651246/google-assistant-iphone-ai-future-interface-io-2017
     domain: www.theverge.com
-  - item_date: "2017-05-17 11:54:25"
-    title: "Google's TensorFlow Lite brings machine learning to Android devices"
-    url: http://techcrunch.com/?p=1492527
-    domain: techcrunch.com
   latest_stack_exchange_searches:
   - question_id: "52012992"
     title: How can we think of hypothesis and decide which approach to use based on
@@ -4532,6 +4532,10 @@ landscape:
     points: "7"
 - tag: Webhooks
   latest_curated:
+  - item_date: "2018-07-28 08:03:32"
+    title: Help Scout Mailbox Webhooks API
+    url: https://www.programmableweb.com/api/help-scout-mailbox-webhooks
+    domain: www.programmableweb.com
   - item_date: "2018-08-02 09:24:12"
     title: Add a webhook automatically to your app whenever
     url: https://medium.com/p/856da39418cb
