@@ -877,6 +877,10 @@ landscape:
     points: "20"
 - tag: Machine Learning
   latest_curated:
+  - item_date: "2018-08-23 22:01:01"
+    title: Getting Started With TensorFlow.js
+    url: https://dzone.com/articles/2398460
+    domain: dzone.com
   - item_date: "2018-08-08 09:00:35"
     title: MLflow 0.4.2 Released
     url: https://databricks.com/?p=31406
@@ -2356,10 +2360,6 @@ landscape:
     title: Google I/O Showcases the Machine Learning Strengths of TensorFlow
     url: https://thenewstack.io/?p=2357714
     domain: thenewstack.io
-  - item_date: "2017-05-17 12:05:01"
-    title: The machine is learning
-    url: https://www.theverge.com/2017/5/17/15651246/google-assistant-iphone-ai-future-interface-io-2017
-    domain: www.theverge.com
   latest_stack_exchange_searches:
   - question_id: "52012992"
     title: How can we think of hypothesis and decide which approach to use based on
