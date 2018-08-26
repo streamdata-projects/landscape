@@ -3499,3 +3499,12 @@ landscape:
     url: http://timothyfitz.wordpress.com/2009/02/09/what-webhooks-are-and-why-you-should-care/
     created_at: "2009-02-10"
     points: "71"
+curation:
+  Apache Kafka: []
+  Event-Driven Architecture: []
+  Machine Learning: []
+  Real Time API: []
+  Real Time Data: []
+  Streaming APIs: []
+  Streaming Data: []
+  Webhooks: []
