@@ -4,7 +4,8 @@ philosophy: This is what we consider the landscape in which Streamdata.io pays a
   to. These are the keywords and key phrases that matter to what we do. This page
   searches Reddit, Stack Exchange, and Hacker News for any of these key words and
   lists the results here. We can add any other keyword, or search source in the future,
-  as needed. Our goal is to have a single place to find as much of the relevant discussion as we possibly can.
+  as needed. Our goal is to have a single place to find as much of the relevant discussion
+  as we possibly can.
 landscape:
 - tag: Apache Kafka
   latest_curated: []
