@@ -62,13 +62,13 @@ layout: default
          </div>
          {% endif %}
 
-         {% assign number_of_landcape_stack_exchange_search = landcape.latest_stack_exchange_searches | size %}
-         {% if number_of_landcape_stack_exchange_search > 0 %}
+         {% assign number_of_landscape_stack_exchange_search = landscape.latest_stack_exchange_searches | size %}
+         {% if number_of_landscape_stack_exchange_search > 0 %}
          <div style="padding-top: 7px; padding-bottom: 7px;">
            <p><strong>The Latest Stack Exchange Searches:</strong></p>
            <div style="height: 200px; overflow: scroll;">
              <ul style="list-style-type: circle; padding-top: 15px;">
-               {% for search in landcape.latest_stack_exchange_searches %}
+               {% for search in landscape.latest_stack_exchange_searches %}
                   <li style="padding: 3px 0px 3px 20px; color: #000;">&rarr; <a href="{{ search.url }}" style="color: #000; text-decoration: underline;" target="_blank">{{ search.title }}</a> ({{ search.owner_display_name }})</li>
               {% endfor %}
              </ul>
