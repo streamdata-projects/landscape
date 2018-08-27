@@ -877,6 +877,10 @@ landscape:
     points: "20"
 - tag: Machine Learning
   latest_curated:
+  - item_date: "2018-08-27 09:07:44"
+    title: 'Vertical Spotlight: Machine Learning for Manufacturing'
+    url: https://blog.algorithmia.com/?p=13283
+    domain: blog.algorithmia.com
   - item_date: "2018-08-23 22:01:01"
     title: Getting Started With TensorFlow.js
     url: https://dzone.com/articles/2398460
@@ -2356,10 +2360,6 @@ landscape:
     title: Can machine learning and AI help Facebook better moderate troubling content?
     url: http://mashable.com/?p=bp-46900
     domain: mashable.com
-  - item_date: "2017-05-19 04:00:09"
-    title: Google I/O Showcases the Machine Learning Strengths of TensorFlow
-    url: https://thenewstack.io/?p=2357714
-    domain: thenewstack.io
   latest_stack_exchange_searches:
   - question_id: "52012992"
     title: How can we think of hypothesis and decide which approach to use based on
