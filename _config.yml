@@ -4532,6 +4532,10 @@ landscape:
     points: "7"
 - tag: Webhooks
   latest_curated:
+  - item_date: "2018-08-27 01:47:48"
+    title: Verifying Shopify webhooks with NodeJS & Express
+    url: https://medium.com/p/ac7845c9e40a
+    domain: medium.com
   - item_date: "2018-08-23 10:18:29"
     title: 'Adobe I/O Events and Creative Cloud: Collaboration Workflows Just Got
       More Collaborative'
